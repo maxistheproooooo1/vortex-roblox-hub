@@ -1,0 +1,12 @@
+# Keep source code local — only push root obfuscated copies
+src/
+dist/
+node_modules/
+package.json
+package-lock.json
+obfuscate.js
+
+# Local artifacts
+*.log
+.DS_Store
+Thumbs.db
