@@ -1,4 +1,4 @@
-﻿local G = {Axbco = pcall, bnZqe = string, nzsIc = dfd144e3, UjUWO = table, znVTc = game, XpyAr = Enum, VjJMP = ipairs, Jfheo = Instance, CFUYk = UDim2, raMgy = Color3, lEfyN = UDim, YjPdv = pairs, URqjb = loadstring, ebcKU = task, QZhNV = warn, KMBfq = Vector2, mravo = tostring, GlNLk = setclipboard}
+local G = {Axbco = pcall, bnZqe = string, nzsIc = dfd144e3, UjUWO = table, znVTc = game, XpyAr = Enum, VjJMP = ipairs, Jfheo = Instance, CFUYk = UDim2, raMgy = Color3, lEfyN = UDim, YjPdv = pairs, URqjb = loadstring, ebcKU = task, QZhNV = warn, KMBfq = Vector2, mravo = tostring, GlNLk = setclipboard}
 local f3a78 = {(function()
   local df9b4641 = 659365
   df9b4641 = df9b4641 - 59474
