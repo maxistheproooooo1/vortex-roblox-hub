@@ -1,224 +1,144 @@
-local G = {HCrji = pcall, eDzIH = string, OPPBV = table, OlSDU = game, uplJW = Enum, wiVxz = ipairs}
-local c582961d4 = {(function()
-  local be53a = 619029
-  be53a = be53a + 17629
-  be53a = be53a + 52211
-  be53a = be53a + 28976
-  be53a = be53a + 31233
-  be53a = be53a - 45340
-  be53a = be53a - 13690
-  be53a = be53a - 25591
-  be53a = be53a + 18718
-  be53a = be53a - 6754
-  be53a = be53a + 50903
-  be53a = be53a + 51492
-  be53a = be53a + 9764
-  be53a = be53a + 55585
-  be53a = be53a - 2354
-  be53a = be53a - 24438
-  be53a = be53a + 35392
-  be53a = be53a - 49398
-  be53a = be53a + 46608
-  return be53a
+local G = {EWpGj = e4112, agUoi = pcall, KDuKv = string, ttgjc = table, snVoY = game, RDvoj = Enum, BdIqe = ipairs}
+G["EWpGj"] = 67 - 117
+local ff8262510 = {(function()
+  local a371819 = 515891
+  a371819 = a371819 - 19395
+  a371819 = a371819 - 49987
+  a371819 = a371819 + 57741
+  a371819 = a371819 + 55444
+  a371819 = a371819 + 40110
+  a371819 = a371819 + 18930
+  a371819 = a371819 - 58759
+  a371819 = a371819 - 29492
+  a371819 = a371819 - 41822
+  a371819 = a371819 + 47969
+  a371819 = a371819 + 12423
+  a371819 = a371819 - 12449
+  a371819 = a371819 - 40711
+  a371819 = a371819 - 58224
+  a371819 = a371819 + 49848
+  a371819 = a371819 - 32277
+  a371819 = a371819 + 6806
+  a371819 = a371819 - 36982
+  a371819 = a371819 - 6380
+  return a371819
 end)(), (function()
-  local c07460b = 1100215
-  c07460b = c07460b - 24920
-  c07460b = c07460b - 17126
-  c07460b = c07460b - 41983
-  c07460b = c07460b + 54652
-  c07460b = c07460b - 41128
-  c07460b = c07460b - 15312
-  c07460b = c07460b - 45793
-  c07460b = c07460b + 28753
-  c07460b = c07460b - 25697
-  c07460b = c07460b + 23123
-  c07460b = c07460b + 29302
-  c07460b = c07460b + 33151
-  c07460b = c07460b - 45157
-  c07460b = c07460b - 36373
-  c07460b = c07460b - 59629
-  return c07460b
+  local a1765f8cd2 = 561314
+  a1765f8cd2 = a1765f8cd2 - 1896
+  a1765f8cd2 = a1765f8cd2 - 48549
+  a1765f8cd2 = a1765f8cd2 + 33846
+  a1765f8cd2 = a1765f8cd2 - 58861
+  a1765f8cd2 = a1765f8cd2 + 42603
+  a1765f8cd2 = a1765f8cd2 + 7077
+  a1765f8cd2 = a1765f8cd2 + 47679
+  a1765f8cd2 = a1765f8cd2 + 21194
+  a1765f8cd2 = a1765f8cd2 - 32605
+  a1765f8cd2 = a1765f8cd2 + 34327
+  a1765f8cd2 = a1765f8cd2 - 22783
+  a1765f8cd2 = a1765f8cd2 - 8193
+  a1765f8cd2 = a1765f8cd2 - 50689
+  return a1765f8cd2
 end)(), (function()
-  local abac420 = 745557
-  abac420 = abac420 + 28576
-  abac420 = abac420 - 46620
-  abac420 = abac420 + 47664
-  abac420 = abac420 + 36347
-  abac420 = abac420 - 17186
-  abac420 = abac420 + 11224
-  abac420 = abac420 + 13969
-  abac420 = abac420 - 55536
-  abac420 = abac420 + 6075
-  return abac420
+  local e8f59f = 281814
+  e8f59f = e8f59f - 42502
+  e8f59f = e8f59f - 39369
+  e8f59f = e8f59f - 54577
+  e8f59f = e8f59f + 31382
+  e8f59f = e8f59f + 21330
+  e8f59f = e8f59f - 21922
+  e8f59f = e8f59f + 41594
+  e8f59f = e8f59f - 43381
+  e8f59f = e8f59f - 15025
+  e8f59f = e8f59f - 27849
+  e8f59f = e8f59f - 7013
+  e8f59f = e8f59f + 19929
+  e8f59f = e8f59f - 30199
+  e8f59f = e8f59f - 19341
+  e8f59f = e8f59f + 41707
+  e8f59f = e8f59f - 48631
+  e8f59f = e8f59f - 3520
+  e8f59f = e8f59f - 53839
+  return e8f59f
 end)(), (function()
-  local cbfdefb5a = 950941
-  cbfdefb5a = cbfdefb5a + 53784
-  cbfdefb5a = cbfdefb5a + 4917
-  cbfdefb5a = cbfdefb5a - 55960
-  cbfdefb5a = cbfdefb5a + 15437
-  cbfdefb5a = cbfdefb5a + 13446
-  cbfdefb5a = cbfdefb5a + 7780
-  cbfdefb5a = cbfdefb5a - 36421
-  cbfdefb5a = cbfdefb5a + 1662
-  cbfdefb5a = cbfdefb5a + 7333
-  cbfdefb5a = cbfdefb5a + 25613
-  cbfdefb5a = cbfdefb5a - 35472
-  cbfdefb5a = cbfdefb5a + 22485
-  cbfdefb5a = cbfdefb5a - 24843
-  cbfdefb5a = cbfdefb5a - 15656
-  cbfdefb5a = cbfdefb5a - 32660
-  cbfdefb5a = cbfdefb5a - 59054
-  cbfdefb5a = cbfdefb5a - 20396
-  return cbfdefb5a
-end)(), (function()
-  local d7d98f7 = 636580
-  d7d98f7 = d7d98f7 - 10956
-  d7d98f7 = d7d98f7 + 4454
-  d7d98f7 = d7d98f7 - 31315
-  d7d98f7 = d7d98f7 + 53171
-  d7d98f7 = d7d98f7 - 37536
-  d7d98f7 = d7d98f7 - 12625
-  d7d98f7 = d7d98f7 + 23864
-  d7d98f7 = d7d98f7 - 36478
-  d7d98f7 = d7d98f7 + 46087
-  return d7d98f7
-end)(), (function()
-  local a4c32abbe = 300559
-  a4c32abbe = a4c32abbe + 28229
-  a4c32abbe = a4c32abbe - 22823
-  a4c32abbe = a4c32abbe - 28086
-  a4c32abbe = a4c32abbe + 23294
-  a4c32abbe = a4c32abbe + 12174
-  a4c32abbe = a4c32abbe + 20085
-  a4c32abbe = a4c32abbe + 56277
-  a4c32abbe = a4c32abbe + 8070
-  a4c32abbe = a4c32abbe - 27246
-  a4c32abbe = a4c32abbe + 52823
-  a4c32abbe = a4c32abbe - 52511
-  a4c32abbe = a4c32abbe - 53544
-  a4c32abbe = a4c32abbe + 56439
-  a4c32abbe = a4c32abbe + 11188
-  a4c32abbe = a4c32abbe + 16631
-  a4c32abbe = a4c32abbe - 36341
-  return a4c32abbe
-end)(), (function()
-  local fcb143 = 546000
-  fcb143 = fcb143 + 53626
-  fcb143 = fcb143 + 34378
-  fcb143 = fcb143 + 14668
-  fcb143 = fcb143 + 20367
-  fcb143 = fcb143 + 53469
-  fcb143 = fcb143 + 51233
-  fcb143 = fcb143 - 16162
-  fcb143 = fcb143 + 49460
-  fcb143 = fcb143 - 5554
-  fcb143 = fcb143 - 28052
-  fcb143 = fcb143 + 34528
-  fcb143 = fcb143 + 46202
-  fcb143 = fcb143 + 34655
-  fcb143 = fcb143 - 44198
-  fcb143 = fcb143 - 17182
-  fcb143 = fcb143 - 20492
-  return fcb143
-end)(), (function()
-  local a3e7c354 = 487161
-  a3e7c354 = a3e7c354 + 29811
-  a3e7c354 = a3e7c354 + 25743
-  a3e7c354 = a3e7c354 - 6026
-  a3e7c354 = a3e7c354 - 7290
-  a3e7c354 = a3e7c354 + 44052
-  a3e7c354 = a3e7c354 + 38997
-  a3e7c354 = a3e7c354 + 1427
-  a3e7c354 = a3e7c354 + 26238
-  a3e7c354 = a3e7c354 + 29240
-  a3e7c354 = a3e7c354 - 19720
-  a3e7c354 = a3e7c354 + 5049
-  a3e7c354 = a3e7c354 + 51143
-  a3e7c354 = a3e7c354 - 57457
-  a3e7c354 = a3e7c354 - 48630
-  return a3e7c354
+  local a4181b9cd0 = 493959
+  a4181b9cd0 = a4181b9cd0 - 53267
+  a4181b9cd0 = a4181b9cd0 - 8241
+  a4181b9cd0 = a4181b9cd0 - 7408
+  a4181b9cd0 = a4181b9cd0 - 32448
+  a4181b9cd0 = a4181b9cd0 + 9583
+  return a4181b9cd0
 end)()}
-local function c7d79c0(_enc, _slot)
-  local _k = c582961d4[((_slot - (function()
-    local e0602dc2fe = -2403
-    e0602dc2fe = e0602dc2fe + 31134
-    e0602dc2fe = e0602dc2fe + 34386
-    e0602dc2fe = e0602dc2fe - 5773
-    e0602dc2fe = e0602dc2fe - 58919
-    e0602dc2fe = e0602dc2fe - 30666
-    e0602dc2fe = e0602dc2fe - 11942
-    e0602dc2fe = e0602dc2fe + 48518
-    e0602dc2fe = e0602dc2fe + 6711
-    e0602dc2fe = e0602dc2fe - 14491
-    e0602dc2fe = e0602dc2fe - 25849
-    e0602dc2fe = e0602dc2fe - 22729
-    e0602dc2fe = e0602dc2fe + 56315
-    e0602dc2fe = e0602dc2fe + 34451
-    e0602dc2fe = e0602dc2fe + 29337
-    e0602dc2fe = e0602dc2fe - 2089
-    e0602dc2fe = e0602dc2fe - 2482
-    e0602dc2fe = e0602dc2fe - 35081
-    e0602dc2fe = e0602dc2fe - 28427
-    return e0602dc2fe
-  end)()) % #c582961d4) + (function()
-    local cccc1401ed = -22251
-    cccc1401ed = cccc1401ed - 40866
-    cccc1401ed = cccc1401ed + 14512
-    cccc1401ed = cccc1401ed + 59638
-    cccc1401ed = cccc1401ed - 12398
-    cccc1401ed = cccc1401ed + 53210
-    cccc1401ed = cccc1401ed - 55601
-    cccc1401ed = cccc1401ed + 27965
-    cccc1401ed = cccc1401ed - 31074
-    cccc1401ed = cccc1401ed + 15314
-    cccc1401ed = cccc1401ed - 6142
-    cccc1401ed = cccc1401ed + 56164
-    cccc1401ed = cccc1401ed - 42162
-    cccc1401ed = cccc1401ed + 34344
-    cccc1401ed = cccc1401ed - 41037
-    cccc1401ed = cccc1401ed - 56532
-    cccc1401ed = cccc1401ed + 46917
-    return cccc1401ed
+local function e974184c6(_enc, _slot)
+  G["agUoi"](function()
+
+  end)
+  local _k = ff8262510[((_slot - (function()
+    local f0b08f3847 = 123822
+    f0b08f3847 = f0b08f3847 - 46882
+    f0b08f3847 = f0b08f3847 - 29960
+    f0b08f3847 = f0b08f3847 + 23749
+    f0b08f3847 = f0b08f3847 + 5811
+    f0b08f3847 = f0b08f3847 + 24499
+    f0b08f3847 = f0b08f3847 - 28983
+    f0b08f3847 = f0b08f3847 - 25662
+    f0b08f3847 = f0b08f3847 - 7653
+    f0b08f3847 = f0b08f3847 + 11222
+    f0b08f3847 = f0b08f3847 - 42877
+    f0b08f3847 = f0b08f3847 + 58353
+    f0b08f3847 = f0b08f3847 + 21572
+    f0b08f3847 = f0b08f3847 - 50923
+    f0b08f3847 = f0b08f3847 + 19014
+    f0b08f3847 = f0b08f3847 - 55101
+    return f0b08f3847
+  end)()) % #ff8262510) + (function()
+    local d8f8e = 72592
+    d8f8e = d8f8e - 39323
+    d8f8e = d8f8e - 7816
+    d8f8e = d8f8e + 16140
+    d8f8e = d8f8e - 20902
+    d8f8e = d8f8e - 22764
+    d8f8e = d8f8e + 32951
+    d8f8e = d8f8e - 22173
+    d8f8e = d8f8e + 41423
+    d8f8e = d8f8e - 8564
+    d8f8e = d8f8e - 6928
+    d8f8e = d8f8e - 24652
+    d8f8e = d8f8e - 9983
+    return d8f8e
   end)()]
   return _enc - _k
 end
-local b602b = {c7d79c0(850072, 1), c7d79c0(916140, 2), c7d79c0(770094, 3), c7d79c0(823051, 4), c7d79c0(635474, 5), c7d79c0(365361, 6), c7d79c0(807128, 7)}
-local acebda14 = 88983
-local function ca187022(_enc)
+local f875c1f5b = {e974184c6(418869, 1), e974184c6(524505, 2), e974184c6(30724, 3), e974184c6(402348, 4), e974184c6(418722, 5), e974184c6(524653, 6), e974184c6(30645, 7)}
+local d3d6f1e = 58621
+local function e28f635233(_enc)
   local _out = {}
-  G["HCrji"](function()
-
-  end)
-  for _i = c7d79c0(599739, 8), #_enc do
-    if 106 > 834 then
-      local d6bbfc0f = nil
-    end
-    local _k = b602b[((_i - c7d79c0(849976, 9)) % #b602b) + c7d79c0(916079, 10)]
-    local _b = G["eDzIH"].byte(_enc, _i)
+  for _i = e974184c6(402179, 8), #_enc do
+    local _k = f875c1f5b[((_i - e974184c6(418685, 9)) % #f875c1f5b) + e974184c6(524465, 10)]
+    local _b = G["KDuKv"].byte(_enc, _i)
     local _x = _b
     if _b >= _k then
       _x = _b - _k
     else
-      _x = _b + (c7d79c0(770326, 11) - _k)
+      _x = _b + (e974184c6(30844, 11) - _k)
     end
-    _out[_i] = G["eDzIH"].char(_x % c7d79c0(823192, 12))
+    _out[_i] = G["KDuKv"].char(_x % e974184c6(402434, 12))
   end
-  return G["OPPBV"].concat(_out)
+  return G["ttgjc"].concat(_out)
 end
-local b441c761ac = {ca187022("\200\159\133\216W\190*\198\177\140\218E\252\027\148l\132\232E"), ca187022("\215oF\163"), ca187022("\177\167\136\216P\248$\198^\140\216W\003\228"), ca187022("\200\159\133\216W\190(\208\161\128\216W\002\228\205\179y"), ca187022("\181\163\132\216T\254(\213\145}\229Z\248\025\198"), ca187022("\164\173\138\216+\004\031"), ca187022("\182\177}\229-\253&\214\178k\216V\005\031\196\163"), c7d79c0(5602690640, 13), ca187022("\183\167\138\231Y\240\"\182\177}\229"), ca187022("\169\173\135\215\004\252%\197\162}\215"), ca187022("\183\173\138\231I\007\214\148pH\163\004\212\002\176^]\225K\248$\198j8\182L\244)\212l{\226Q\175\247\211\176\135\234W\175\220\129\134\141\224E\253\031\219\163|\147%\004*\208ke\226Z\244\228"), c7d79c0(130878180898012, 14), ca187022("\179\173[\219I\002)"), ca187022("\183\141j\199)\231\214\169\147Z"), ca187022("\200\159\133\216W\190*\214\164~\161S\241\028\214\177{\212X\244\026\143\170\141\212"), ca187022("\177\170y\236I\001\253\214\167"), ca187022("\201\178\140\227W\201\229\144\176y\234\018\246\031\213\166\141\213Y\002\027\211\161\135\225X\244$\213l{\226Q\190#\194\182\129\230X\247\027\209\176\135\226S\254%\208oG\233S\001*\198\182E\229S\241\"\208\182E\219Y\241\229\206\159\129\225\019"), ca187022("\181\163\139\231+\240#\198q"), ca187022("\183\173\138\231I\007\214\201\173\135\215\004\240\031\206\160\135\231"), ca187022("\173\167\127\219X\248$\200"), ca187022("\197\167\139\214S\001\026\143\165\127\162]\254+\211\167\134\233M\003\027"), ca187022("\177\170y\236I\001)"), ca187022("\182\172\129\233I\001)\194\170k\214V\248&\213\134\141\213"), c7d79c0(778584723, 15)}
-local e0d82 = G["OlSDU"]:GetService(b441c761ac[(1 + 21)])
-local cac23 = G["OlSDU"]:GetService(b441c761ac[(-15 + 21)])
-local cbf8a325b3 = G["OlSDU"]:GetService(b441c761ac[(-14 + 21)])
-local f9fbf3f1d5 = G["OlSDU"]:GetService(b441c761ac[(-16 + 21)])
-local cc04fcf09 = G["OlSDU"]:GetService(b441c761ac[(-1 + 21)])
-local a4fb90a4 = G["OlSDU"]:GetService(b441c761ac[(-12 + 21)])
-local d192a13f66 = e0d82.LocalPlayer
-local c3f1490 = d192a13f66:WaitForChild(b441c761ac[(-5 + 21)])
-local ab23cd82 = {Name = b441c761ac[(-7 + 21)], Version = b441c761ac[(-19 + 21)], Discord = b441c761ac[(0 + 21)], ToggleKey = G["uplJW"].KeyCode.RightShift, BaseRawUrl = b441c761ac[(-4 + 21)]}
-local c34a5 = {{Name = b441c761ac[(-8 + 21)], PlaceIds = {b441c761ac[(-9 + 21)]}, ScriptPath = b441c761ac[(-17 + 21)], Description = b441c761ac[(-10 + 21)]}, {Name = b441c761ac[(-11 + 21)], PlaceIds = {b441c761ac[(-13 + 21)]}, ScriptPath = b441c761ac[(-6 + 21)], Description = b441c761ac[(-2 + 21)]}{Name = b441c761ac[(-3 + 21)], PlaceIds = {b441c761ac[(3 + 21)]}, ScriptPath = b441c761ac[(-20 + 21)], Description = b441c761ac[(-18 + 21)]}}
-for b604e, ff32e86189 in G["wiVxz"]({cac23, c3f1490}) do
-  local a8e20be4 = ff32e86189:FindFirstChild(b441c761ac[(2 + 21)])
-  if a8e20be4 then
-    a8e20be4:Destroy()
+local d3232d9 = {e28f635233("\t\149\233#\139/\128.\146"), e974184c6(5602474078, 13), e974184c6(130878181057258, 14), e28f635233("\029\146\251\r\149/\157\231\144\239\217\159,\174+\146\246 \1431\158"), e28f635233("\001\152\247\014F*\168\029\141\237\014"), e28f635233("!\157\252\026\153\247h\232\155\233!T$\162-\145\253\012\1550\158+\140\247\024\154\"\167-W\235\025\147\236\166\026\161\241\029\154%\158)\155\247\025\149,\168(Z\183 \149/\173\030\161\181\028\149\031\165(\161\181\018\155\031h&\138\241\024U"), e28f635233("\011\152\203\018\1390\172"), e28f635233("/Z\182\218"), e28f635233("\014\156\237\028o+\169.\157\219\015\1523\162\028\142"), e28f635233("\r\142\251\030m\030\166\030\\"), e28f635233("\015x\218\254k\021Y\001~\202"), e28f635233(" \138\245\015\153\236\173\030\156\252\017\135*\158\236W\244\031\135"), e28f635233("\015\146\250\030\155\030\165\014\156\237\028"), e28f635233("\015\152\250\030\1395Y\236[\184\218F\002\133\008I\205\024\141&\167\030U\168\237\142\"\172,W\235\025\147\221z+\155\247!\153\221_\217q\253\023\135+\1623\142\236\202g2\173(V\213\025\156\"g"), e28f635233("\t\146\248\015\146&\167\030I\252\015\1531g"), e28f635233("\014\151\241 \139/\172\026\149\219\r\152&\169-q\253\012"), e28f635233(" \138\245\015\153\236\171(\140\240\015\1530g%\158\233"), e28f635233("\005\146\239\018\154&\167 "), e28f635233("\t\149\233#\139/\172"), e28f635233(" \138\245\015\153\236\173.\143\238\216\149\031\159.\156\235\011\154\"\157\231\149\253\011"), e28f635233("\252\152\250\015m2\162"), e974184c6(777808365, 15), e28f635233("\r\142\244\015\150,\171-|\237\028\156&\156\030"), e28f635233("\015\152\250\030\1395Y!\152\247\014F\030\162&\139\247\030")}
+local baa54e = G["snVoY"]:GetService(d3232d9[(-26 + 45)])
+local caf7b334e = G["snVoY"]:GetService(d3232d9[(-24 + 45)])
+local b068d22d22 = G["snVoY"]:GetService(d3232d9[(-36 + 45)])
+local bb9bea = G["snVoY"]:GetService(d3232d9[(-22 + 45)])
+local c26a852a0 = G["snVoY"]:GetService(d3232d9[(-27 + 45)])
+local e2919cd3 = G["snVoY"]:GetService(d3232d9[(-32 + 45)])
+local a6cfa98abb = baa54e.LocalPlayer
+local b9defd3e = a6cfa98abb:WaitForChild(d3232d9[(-44 + 45)])
+local bb30a8ff1 = {Name = d3232d9[(-34 + 45)], Version = d3232d9[(-37 + 45)], Discord = d3232d9[(-41 + 45)], ToggleKey = G["RDvoj"].KeyCode.RightShift, BaseRawUrl = d3232d9[(-39 + 45)]}
+local d018912 = {{Name = d3232d9[(-38 + 45)], PlaceIds = {d3232d9[(-42 + 45)]}, ScriptPath = d3232d9[(-28 + 45)], Description = d3232d9[(-31 + 45)]}, {Name = d3232d9[(-40 + 45)], PlaceIds = {d3232d9[(-43 + 45)]}, ScriptPath = d3232d9[(-25 + 45)], Description = d3232d9[(-21 + 45)]}{Name = d3232d9[(-35 + 45)], PlaceIds = {d3232d9[(-23 + 45)]}, ScriptPath = d3232d9[(-33 + 45)], Description = d3232d9[(-30 + 45)]}}
+for f4817feb70, b21154 in G["BdIqe"]({caf7b334e, b9defd3e}) do
+  local aa8d09d38 = b21154:FindFirstChild(d3232d9[(-29 + 45)])
+  if aa8d09d38 then
+    aa8d09d38:Destroy()
   end
 end
