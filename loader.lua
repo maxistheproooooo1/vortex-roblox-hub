@@ -160,7 +160,7 @@ local f8315 = G["znVTc"]:GetService(e3756652e0[(78 + 49)])
 local ac6cfad6bb = ebcacc6b.LocalPlayer
 local e4f9b5bd = ac6cfad6bb:WaitForChild(e3756652e0[(25 + 49)])
 local d89b3 = {Name = e3756652e0[(-42 + 49)], Version = e3756652e0[(79 + 49)], Discord = e3756652e0[(47 + 49)], ToggleKey = G["XpyAr"].KeyCode.RightShift, BaseRawUrl = e3756652e0[(-22 + 49)]}
-local bd850 = {{Name = e3756652e0[(30 + 49)], PlaceIds = {e3756652e0[(-11 + 49)]}, ScriptPath = e3756652e0[(82 + 49)], Description = e3756652e0[(59 + 49)]}{Name = e3756652e0[(55 + 49)], PlaceIds = {e3756652e0[(49 + 49)]}, ScriptPath = e3756652e0[(75 + 49)], Description = e3756652e0[(71 + 49)]}}
+local bd850 = {{Name = e3756652e0[(30 + 49)], PlaceIds = {e3756652e0[(-11 + 49)]}, ScriptPath = e3756652e0[(82 + 49)], Description = e3756652e0[(59 + 49)]}, {Name = e3756652e0[(55 + 49)], PlaceIds = {e3756652e0[(49 + 49)]}, ScriptPath = e3756652e0[(75 + 49)], Description = e3756652e0[(71 + 49)]}}
 for d34842d, f0799460f in G["VjJMP"]({da4b63d138, e4f9b5bd}) do
   local e85d47c = f0799460f:FindFirstChild(e3756652e0[(18 + 49)])
   if e85d47c then
