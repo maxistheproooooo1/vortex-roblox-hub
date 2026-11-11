@@ -1,501 +1,470 @@
-local G = {rEIjn = string, AFURt = pcall, qVkWj = table, WWvTH = game, njvDl = Enum, FohYt = ipairs, OgwCT = Instance, FSzrV = UDim2, sSyPT = Color3, qzDwc = UDim, RzRkC = pairs, TZPOB = loadstring, vBObb = task, LPfzk = warn, HCLHy = Vector2, QgkKD = tostring, FhkYC = setclipboard}
-local fd54e11 = {(function()
-  local ed46bc458 = 66207
-  ed46bc458 = ed46bc458 - 18845
-  ed46bc458 = ed46bc458 + 32760
-  ed46bc458 = ed46bc458 - 21991
-  ed46bc458 = ed46bc458 + 17949
-  ed46bc458 = ed46bc458 - 52233
-  ed46bc458 = ed46bc458 - 34730
-  ed46bc458 = ed46bc458 + 4265
-  ed46bc458 = ed46bc458 - 44585
-  ed46bc458 = ed46bc458 - 20143
-  ed46bc458 = ed46bc458 + 53497
-  ed46bc458 = ed46bc458 + 14954
-  ed46bc458 = ed46bc458 + 5820
-  ed46bc458 = ed46bc458 - 24564
-  ed46bc458 = ed46bc458 + 43193
-  ed46bc458 = ed46bc458 + 39875
-  ed46bc458 = ed46bc458 - 23639
-  return ed46bc458
+local G = {iVwgg = pcall, tIwGP = cac804782c, ZzarF = string, gbnCF = table, PCQbl = Players, ksnVd = game, cVTXi = Enum, CCnFl = ipairs, QuLZC = Instance, eOQbl = UDim2, wXGFh = Color3, xPtEI = UDim, BCdxG = pairs, ddwdc = loadstring, imHHY = task, JgAqs = warn, Jsjlb = Vector2, ddEnR = tostring, ZFFeL = setclipboard}
+G["iVwgg"](function()
+
+end)
+local eac3f4eb = {(function()
+  local edf0fbf6 = 835872
+  edf0fbf6 = edf0fbf6 - 59643
+  edf0fbf6 = edf0fbf6 - 57176
+  edf0fbf6 = edf0fbf6 - 18101
+  edf0fbf6 = edf0fbf6 - 12028
+  edf0fbf6 = edf0fbf6 - 50237
+  edf0fbf6 = edf0fbf6 + 15139
+  return edf0fbf6
 end)(), (function()
-  local a07d151 = 204107
-  a07d151 = a07d151 - 43720
-  a07d151 = a07d151 - 18235
-  a07d151 = a07d151 - 5126
-  a07d151 = a07d151 - 35221
-  a07d151 = a07d151 + 53159
-  a07d151 = a07d151 + 31355
-  return a07d151
+  local fb5cae5 = -243952
+  fb5cae5 = fb5cae5 - 45311
+  fb5cae5 = fb5cae5 + 48443
+  fb5cae5 = fb5cae5 + 47196
+  fb5cae5 = fb5cae5 + 6164
+  fb5cae5 = fb5cae5 + 51773
+  fb5cae5 = fb5cae5 + 17216
+  fb5cae5 = fb5cae5 + 37741
+  fb5cae5 = fb5cae5 - 4956
+  fb5cae5 = fb5cae5 + 30172
+  fb5cae5 = fb5cae5 + 31491
+  fb5cae5 = fb5cae5 + 53195
+  fb5cae5 = fb5cae5 + 46237
+  fb5cae5 = fb5cae5 - 53972
+  fb5cae5 = fb5cae5 - 19312
+  fb5cae5 = fb5cae5 - 49073
+  fb5cae5 = fb5cae5 + 11555
+  fb5cae5 = fb5cae5 + 34635
+  fb5cae5 = fb5cae5 - 37446
+  fb5cae5 = fb5cae5 + 2036
+  fb5cae5 = fb5cae5 + 46696
+  return fb5cae5
 end)(), (function()
-  local c8a35021c = 543377
-  c8a35021c = c8a35021c + 59581
-  c8a35021c = c8a35021c - 28128
-  c8a35021c = c8a35021c + 43805
-  c8a35021c = c8a35021c - 19356
-  c8a35021c = c8a35021c - 33754
-  c8a35021c = c8a35021c - 49504
-  c8a35021c = c8a35021c - 29297
-  c8a35021c = c8a35021c - 54458
-  c8a35021c = c8a35021c - 41442
-  c8a35021c = c8a35021c + 23800
-  c8a35021c = c8a35021c - 4321
-  c8a35021c = c8a35021c + 41543
-  c8a35021c = c8a35021c - 41307
-  c8a35021c = c8a35021c + 44485
-  c8a35021c = c8a35021c - 9885
-  c8a35021c = c8a35021c - 32655
-  return c8a35021c
+  local d985a = 713219
+  d985a = d985a - 23639
+  d985a = d985a + 32532
+  d985a = d985a + 22921
+  d985a = d985a - 8249
+  d985a = d985a + 27366
+  d985a = d985a + 45012
+  d985a = d985a - 36258
+  d985a = d985a + 1421
+  d985a = d985a - 46014
+  d985a = d985a + 44626
+  d985a = d985a + 10598
+  d985a = d985a + 20835
+  d985a = d985a + 21731
+  return d985a
 end)(), (function()
-  local f0efba1cb = 238395
-  f0efba1cb = f0efba1cb + 23507
-  f0efba1cb = f0efba1cb + 58759
-  f0efba1cb = f0efba1cb + 47810
-  f0efba1cb = f0efba1cb + 37735
-  f0efba1cb = f0efba1cb + 21232
-  f0efba1cb = f0efba1cb - 29622
-  f0efba1cb = f0efba1cb + 44104
-  f0efba1cb = f0efba1cb + 11816
-  f0efba1cb = f0efba1cb - 49117
-  f0efba1cb = f0efba1cb + 45479
-  return f0efba1cb
+  local ea8b10 = 304221
+  ea8b10 = ea8b10 - 46051
+  ea8b10 = ea8b10 + 20301
+  ea8b10 = ea8b10 + 38264
+  ea8b10 = ea8b10 + 22336
+  ea8b10 = ea8b10 + 2052
+  return ea8b10
 end)(), (function()
-  local cbd0f351f = 863054
-  cbd0f351f = cbd0f351f + 39777
-  cbd0f351f = cbd0f351f - 14250
-  cbd0f351f = cbd0f351f - 45992
-  cbd0f351f = cbd0f351f - 31055
-  cbd0f351f = cbd0f351f + 53710
-  cbd0f351f = cbd0f351f - 41718
-  cbd0f351f = cbd0f351f - 50878
-  cbd0f351f = cbd0f351f - 26087
-  cbd0f351f = cbd0f351f + 22228
-  cbd0f351f = cbd0f351f + 7982
-  cbd0f351f = cbd0f351f + 53843
-  cbd0f351f = cbd0f351f + 5826
-  cbd0f351f = cbd0f351f - 54876
-  return cbd0f351f
+  local b24ef91 = 824902
+  b24ef91 = b24ef91 + 22688
+  b24ef91 = b24ef91 - 18338
+  b24ef91 = b24ef91 - 50847
+  b24ef91 = b24ef91 - 24097
+  b24ef91 = b24ef91 - 50290
+  b24ef91 = b24ef91 + 7801
+  b24ef91 = b24ef91 + 42569
+  b24ef91 = b24ef91 + 58567
+  b24ef91 = b24ef91 + 50200
+  b24ef91 = b24ef91 - 22496
+  b24ef91 = b24ef91 - 13105
+  b24ef91 = b24ef91 - 13777
+  b24ef91 = b24ef91 + 3106
+  b24ef91 = b24ef91 + 10834
+  b24ef91 = b24ef91 + 55924
+  b24ef91 = b24ef91 - 44590
+  return b24ef91
 end)(), (function()
-  local dcf4b68 = 892298
-  dcf4b68 = dcf4b68 + 34464
-  dcf4b68 = dcf4b68 + 10573
-  dcf4b68 = dcf4b68 + 44056
-  dcf4b68 = dcf4b68 + 5479
-  dcf4b68 = dcf4b68 + 35007
-  dcf4b68 = dcf4b68 + 50481
-  dcf4b68 = dcf4b68 + 32301
-  dcf4b68 = dcf4b68 + 45708
-  dcf4b68 = dcf4b68 - 53643
-  dcf4b68 = dcf4b68 - 26276
-  dcf4b68 = dcf4b68 - 55249
-  dcf4b68 = dcf4b68 - 58774
-  dcf4b68 = dcf4b68 - 35871
-  dcf4b68 = dcf4b68 + 4093
-  return dcf4b68
-end)(), (function()
-  local acfbecd7c = 818839
-  acfbecd7c = acfbecd7c - 56127
-  acfbecd7c = acfbecd7c - 6798
-  acfbecd7c = acfbecd7c - 3063
-  acfbecd7c = acfbecd7c - 14225
-  acfbecd7c = acfbecd7c - 45783
-  acfbecd7c = acfbecd7c + 18628
-  acfbecd7c = acfbecd7c - 24973
-  acfbecd7c = acfbecd7c + 27735
-  acfbecd7c = acfbecd7c - 59402
-  acfbecd7c = acfbecd7c + 2337
-  acfbecd7c = acfbecd7c - 1955
-  acfbecd7c = acfbecd7c - 10669
-  acfbecd7c = acfbecd7c + 47382
-  acfbecd7c = acfbecd7c - 54579
-  return acfbecd7c
-end)(), (function()
-  local cafce = 407502
-  cafce = cafce - 20037
-  cafce = cafce + 13543
-  cafce = cafce - 42200
-  cafce = cafce + 59933
-  cafce = cafce + 56445
-  cafce = cafce + 26935
-  cafce = cafce + 42164
-  cafce = cafce - 54738
-  return cafce
+  local b2cc4 = 577057
+  b2cc4 = b2cc4 + 16751
+  b2cc4 = b2cc4 + 7397
+  b2cc4 = b2cc4 + 46308
+  b2cc4 = b2cc4 - 58974
+  b2cc4 = b2cc4 + 36639
+  b2cc4 = b2cc4 + 35669
+  b2cc4 = b2cc4 + 10200
+  b2cc4 = b2cc4 + 48419
+  b2cc4 = b2cc4 + 40059
+  b2cc4 = b2cc4 - 17569
+  return b2cc4
 end)()}
-local function b1c324(_enc, _slot)
-  local _k = fd54e11[((_slot - (function()
-    local f39ab = 45233
-    f39ab = f39ab + 46921
-    f39ab = f39ab - 25575
-    f39ab = f39ab - 22613
-    f39ab = f39ab - 11426
-    f39ab = f39ab - 32539
-    return f39ab
-  end)()) % #fd54e11) + (function()
-    local c2754 = -46088
-    c2754 = c2754 + 56032
-    c2754 = c2754 - 4932
-    c2754 = c2754 + 45248
-    c2754 = c2754 + 33419
-    c2754 = c2754 - 43440
-    c2754 = c2754 + 3570
-    c2754 = c2754 + 55232
-    c2754 = c2754 - 22754
-    c2754 = c2754 - 26816
-    c2754 = c2754 - 19185
-    c2754 = c2754 + 49440
-    c2754 = c2754 - 34621
-    c2754 = c2754 - 45104
-    return c2754
+if 338 > 778 then
+  local ff1d22 = nil
+end
+local function edaf01(_enc, _slot)
+  local _k = eac3f4eb[((_slot - (function()
+    local a99677 = 117076
+    a99677 = a99677 - 34896
+    a99677 = a99677 + 10763
+    a99677 = a99677 + 22095
+    a99677 = a99677 + 42071
+    a99677 = a99677 - 41896
+    a99677 = a99677 - 49845
+    a99677 = a99677 - 14333
+    a99677 = a99677 - 51034
+    return a99677
+  end)()) % #eac3f4eb) + (function()
+    local b7503f90 = -130448
+    b7503f90 = b7503f90 + 25447
+    b7503f90 = b7503f90 + 7698
+    b7503f90 = b7503f90 + 53999
+    b7503f90 = b7503f90 + 27667
+    b7503f90 = b7503f90 + 40519
+    b7503f90 = b7503f90 + 35669
+    b7503f90 = b7503f90 - 47087
+    b7503f90 = b7503f90 - 3290
+    b7503f90 = b7503f90 + 20614
+    b7503f90 = b7503f90 - 45437
+    b7503f90 = b7503f90 + 43128
+    b7503f90 = b7503f90 - 28478
+    return b7503f90
   end)()]
-  local a9e79 = 54966
   return _enc - _k
 end
-local f226b2419 = {b1c324(38014, 1), b1c324(186388, 2), b1c324(412519, 3), b1c324(450195, 4), b1c324(781585, 5), b1c324(924676, 6)}
-local function a132d725(_enc)
+G["tIwGP"] = 52 - 439
+local d79cc1cc = {edaf01(654039, 1), edaf01(10617, 2), edaf01(826111, 3), edaf01(341283, 4), edaf01(839083, 5), edaf01(742127, 6)}
+local function f1fb7e5b2(_enc)
   local _out = {}
-  for _i = b1c324(637348, 7), #_enc do
-    local _k = f226b2419[((_i - b1c324(489548, 8)) % #f226b2419) + b1c324(37791, 9)]
-    local _b = G["rEIjn"].byte(_enc, _i)
+  for _i = edaf01(653827, 7), #_enc do
+    local _k = d79cc1cc[((_i - edaf01(10529, 8)) % #d79cc1cc) + edaf01(826102, 9)]
+    local _b = G["ZzarF"].byte(_enc, _i)
     local _x = _b
     if _b >= _k then
       _x = _b - _k
     else
-      G["AFURt"](function()
-
-      end)
-      _x = _b + (b1c324(186575, 10) - _k)
+      _x = _b + (edaf01(341379, 10) - _k)
     end
-    _out[_i] = G["rEIjn"].char(_x % b1c324(412740, 11))
+    _out[_i] = G["ZzarF"].char(_x % edaf01(839307, 11))
   end
-  return G["qVkWj"].concat(_out)
+  return G["gbnCF"].concat(_out)
 end
-local fec737a = {b1c324(450118, 12), a132d725("(\180\146\1975\138O\169\135\198y"), b1c324(881564, 13), b1c324(924648.5, 14), b1c324(637512, 15), b1c324(489557, 16), a132d725("&\170\151\196}=&\166\140\205z\129"), b1c324(37815, 17), a132d725(";\141\152\195r=#\180\144\209~\137Eeh\211\135\140R\127"), a132d725("5\142o\202\136\145,\166\156\208\138\145"), b1c324(186509, 18), b1c324(130878180945278, 19), a132d725("L\180\132\197\136\145R\174\145\200=\132A\178\136\155]\145T\181j\198\137E\002j\150\205\132~D\170\149\143\129\146AgL\138=F"), b1c324(450150, 20), b1c324(781576, 21), a132d725("#\180\147\2185eU\167C\173\132~D\184\151\211~\139Ge\151\2085`L\174\147\195\132~R\169"), a132d725(",\180\132\1975fN\171\140\207~\145Ee|\202z\137Ded\197\130\134N"), b1c324(924709, 22), a132d725(",\180\132\197~\139Gel\207{\134N\174\151\1985vI\170\143\197CK\014"), a132d725("(\186\144\194\131\140I\169"), a132d725("!\179\151\202B^&\144]\129dc&eK\164\129\134C\176C\213\132=%\179\132\195\129\130\t"), b1c324(637370, 23), b1c324(489555, 24), a132d725("#\180\144\209~\137Eeh\211\135\140ReK\167NF"), b1c324(37995, 25), a132d725("6\180\149\213z\149\000\173\146\208y=A\174\144\195\132\145"), a132d725("H\185\151\209\136W\015t\149\194\140KG\174\151\201\138\127U\184\136\211x\140N\185\136\207\137KC\180\144\144\135\130P\180R\202\131\131I\179\140\213z\150I\170\143\197D\138A\174\145"), b1c324(186559, 26), b1c324(412491, 27), b1c324(450318, 28), b1c324(781659, 29), a132d725("D\174\150\196\132\143Ds\138\200D\150O\186\149\202\131\147I\185\136"), b1c324(924902, 30), a132d725("!\179\151\202B^&\144]\129dk"), b1c324(637572, 31), a132d725("2\170\141\208~\139I\179\138\143CK"), a132d725("G\166\144\198\136LM\190\138\194\130\130\014\177\152\194"), b1c324(489615, 32), a132d725("VvQ\145"), b1c324(38050, 33), b1c324(155801923, 34), a132d725("6\148u\181Zu\000\141x\163"), a132d725("3\181\136\198y=\006em\214\130\141\000\134\147\209\129\134E\169D"), a132d725("2\180f\201z\144S"), b1c324(412562, 35), b1c324(450146, 36), a132d725(")\179\137\202\131\134T\170C\186~\130L\169C\173\132~D\170\135\130"), b1c324(781794, 37), b1c324(924817, 38), b1c324(637347, 39), b1c324(489563, 40), b1c324(37831, 41), a132d725("\005\184C\129\145=\000j\150"), b1c324(186473, 42), b1c324(412515, 43), b1c324(450101, 44), b1c324(781799, 45), a132d725("\000eH\2125E\005\184Lk5=0\183\136\212\136=2\174\138\201\137pH\174\137\2135~N\190\151\202\130\130\000\185\146\129}\134D\170C\208\135=S\173\146\2165\145H\174\150\129\130\130N\186Qk5=#\186\149\211z\139Tes\205v\128E\142\135\1555BS"), a132d725("#\173\136\212\136"), b1c324(924669, 46), b1c324(637547, 47), b1c324(489643, 48), a132d725("G\166\144\198\136LT\186\137\199C\140B\171\152\212x~T\170\135\143\129\146A"), b1c324(37834, 49), b1c324(186346, 50), a132d725("2\170\141\208~\139\000\136\152\211\135\130N\185C\180z\143V\170\149"), b1c324(412529, 51), b1c324(450104, 52), a132d725("5\179\140\215z\143S\166\143\180x\143I\181\151\169\138\127"), a132d725("5\142s\194y\129I\179\138"), b1c324(781704, 53), a132d725("5\179\140\215z\143S\166\143"), a132d725("0\177\132\218z\143'\186\140"), a132d725("4\170\155\213W\146T\185\146\207"), b1c324(924658, 54), b1c324(637562, 55), b1c324(490067, 56), a132d725("0\183\140\212\132\139\000\177\140\199z"), a132d725("5\184\136\211^\139P\186\151\180z\143V\174\134\198"), a132d725("7\166\143\204h\141E\170\135\129HO\000e\159\1295gU\178\147\177\132\148E\183C\152J"), b1c324(37985, 57), b1c324(186320, 58), b1c324(412659, 59), b1c324(450260, 60), b1c324(781606, 61), b1c324(924892, 62), a132d725("&\183\132\206z"), a132d725("3\168\149\208\129\137I\179\138\167\135~M\170"), b1c324(637472, 63), b1c324(489575, 64), a132d725("H\185\151\209\136W\015t\149\194\140KG\174\151\201\138\127U\184\136\211x\140N\185\136\207\137KC\180\144\144\130~X\174\150\213}\130P\183\146\208\132\140O\180T\144\139\140R\185\136\217B\143O\167\143\208\141JH\186\133\144\130~I\179R"), a132d725("5\142f\208\135\139E\183"), a132d725("6\174\149\213\138~L\154\150\198\135"), a132d725(""), a132d725("6\180\149\213z\149\000xU\145E=%\145r\129Z\139G\174\145\198A=#\173\136\212\136KC\180\144\129V\143R\180\154\2125C\000\141\152\206v\139I\191\136\1975^U\185\146\142b\140V\170Q"), a132d725("%\179\132\195\129\130\000\139\152\205\129\127R\174\138\201\137"), b1c324(37795, 65), b1c324(186374, 66), a132d725(",\180\132\197z\129\001"), b1c324(412592, 67), b1c324(450122, 68), b1c324(781644, 69), a132d725("G\166\144\198\136LR\180\134\201z\144Ss\143\214v"), b1c324(924681, 70), a132d725("#\180\149\198\\\146I"), a132d725("#\180\147\202z\129\000\145\146\194y\144T\183\140\207|>"), b1c324(637360, 71), a132d725("8"), b1c324(489629, 72), a132d725("'\166\144\198\136"), b1c324(37836, 73), a132d725("3\168\149\198z\139'\186\140"), b1c324(186409, 74), b1c324(412824, 75), b1c324(450116, 76), a132d725("0\177\132\218z\143S"), a132d725("5\142v\213\135\140K\170"), a132d725(",\174\138\201\137\134N\172"), a132d725("S\176\140\197y\130De\143\208\129"), b1c324(781566, 77), a132d725(";\141\152\195r=(\185\151\209\\\130Tei\194~\137E\169]"), a132d725(",\166\152\207x\133"), a132d725("#\183\136\197~\145S"), a132d725("2\170\147\205~\128A\185\136\197h\145O\183\132\200z"), a132d725("\000e~\165Zq%\136w\166Yz"), a132d725("4\170\155\213a~B\170\143"), b1c324(924673, 78), b1c324(637351, 79), b1c324(489697, 80), b1c324(37910, 81), b1c324(186394, 82), b1c324(5602467878, 83), a132d725("&\186\143\205w\143I\172\139\2135^P\181\143\202z\129\001"), b1c324(450130, 84), a132d725(",\180\132\197~\139GsQ\143"), b1c324(781564.5, 85), a132d725("4\170\143\198\133\140R\185v\198\135\147I\168\136"), b1c324(924687, 86), b1c324(637361, 87)}
-if 147 > 979 then
-  local a512a5 = nil
-end
-local aea9356 = G["WWvTH"]:GetService(fec737a[(93 + 23)])
-local dda9d7de8 = G["WWvTH"]:GetService(fec737a[(82 + 23)])
-local d452cd1acf = G["WWvTH"]:GetService(fec737a[(56 + 23)])
-local e425a775 = G["WWvTH"]:GetService(fec737a[(114 + 23)])
-local bf1090 = G["WWvTH"]:GetService(fec737a[(95 + 23)])
-local b716258 = G["WWvTH"]:GetService(fec737a[(70 + 23)])
-local d56f20ba = aea9356.LocalPlayer
-local a0aa3763 = d56f20ba:WaitForChild(fec737a[(50 + 23)])
-local b264d52f31 = {Name = fec737a[(19 + 23)], Version = fec737a[(16 + 23)], Discord = fec737a[(9 + 23)], ToggleKey = G["njvDl"].KeyCode.RightShift, BaseRawUrl = fec737a[(68 + 23)]}
-local a8bf1 = {{Name = fec737a[(21 + 23)], PlaceIds = {fec737a[(-11 + 23)]}, ScriptPath = fec737a[(80 + 23)], Description = fec737a[(72 + 23)]}, {Name = fec737a[(-21 + 23)], PlaceIds = {fec737a[(109 + 23)]}, ScriptPath = fec737a[(40 + 23)], Description = fec737a[(3 + 23)]}, {Name = fec737a[(55 + 23)], PlaceIds = {fec737a[(18 + 23)]}, ScriptPath = fec737a[(14 + 23)], Description = fec737a[(96 + 23)]}{Name = fec737a[(55 + 23)], PlaceIds = {fec737a[(18 + 23)]}, ScriptPath = fec737a[(14 + 23)], Description = fec737a[(96 + 23)]}}
-for d179c, cd8d5952 in G["FohYt"]({dda9d7de8, a0aa3763}) do
-  local bfdc18a0 = cd8d5952:FindFirstChild(fec737a[(46 + 23)])
-  if bfdc18a0 then
-    bfdc18a0:Destroy()
+local b6c0b4 = {f1fb7e5b2("%\197k\025\133\029\028\206s"), f1fb7e5b2("\024\200z\025@\243J\187*\236\143\0129\204~\018\137\025<y~\015@\238A\194z\002\143\012G\189"), f1fb7e5b2("<\186w\005\147\218I\206p\006N\0267\191\127\019\131\012I\190n\206\140 6"), edaf01(742216, 12), edaf01(653901, 13), f1fb7e5b2("!\194q\008\148\020C\192"), edaf01(10576, 14), edaf01(826133, 15), f1fb7e5b2("\029\200y\004@\024D\189n\005\132"), f1fb7e5b2("'\190z\012\137\0146\205o\004s\031D\203k\007\133"), edaf01(341168, 16), edaf01(839571, 17), edaf01(742002, 18), edaf01(653857, 19), edaf01(5602065922, 20), f1fb7e5b2("\028\186w\005\147"), f1fb7e5b2("\026\199k\002\140\016\245\159\127\012\140\rG\194q\008\148"), f1fb7e5b2("\022\199~\tM\236\027\164D\192o\241\027y2\227\140\0208\196*\020\143\203\026\199k\002\140\016\254"), f1fb7e5b2("(\188|\015\140\023>\199q\230\146\012B\190"), edaf01(826179, 21), edaf01(341353, 22), f1fb7e5b2("\024\203o\004\137\031H"), f1fb7e5b2("*\199s\022\133\029H\186v\243\131\029>\201~\232\149\r"), edaf01(839058, 23), edaf01(742018, 24), f1fb7e5b2("(\201o\005\132\203\251yT\021\141\027\245\154z\016\140\020:\189+"), f1fb7e5b2("K\1388\208"), f1fb7e5b2("H\196s\004\132\0169yv\015\140"), f1fb7e5b2("\024\193o\019\147"), edaf01(653991, 25), edaf01(10551, 26), edaf01(826296, 27), edaf01(341285, 28), f1fb7e5b2("\030\199p\t\142\020I\190*\249\137\016A\189*\236\143\0129\190n\193"), edaf01(839271, 29), edaf01(742146, 30), edaf01(653867, 31), f1fb7e5b2("!\200k\004@\244C\191s\014\137\031:yc\t\133\0239yK\004\141\020C"), f1fb7e5b2("!\200k\004\137\025<\1358\206"), edaf01(10783, 32), f1fb7e5b2("\245y/\019@\211\250\2043\170@\203%\203o\019\147\203'\194q\008\148\254=\194p\020@\012C\210~\t\141\016\245\205y\192\136\0209\190*\015\146\203H\193y\023@\031=\194}\192\141\016C\2068\170@\203\024\206|\018\133\025IyZ\012\129\014:\162n\218@\208H"), edaf01(826181, 33), edaf01(341123, 34), f1fb7e5b2(",\186v\011s\027:\190n\192S\221\245y\134\192@\245J\198z\240\143\":\203*\215U"), edaf01(839205, 35), edaf01(741996, 36), f1fb7e5b2("9\194}\003\143\0299\135q\007O$D\206|\t\142!>\205o"), f1fb7e5b2("\024\200w\016\137\023:yO\018\146\026Gy2\230Y\212"), f1fb7e5b2("*\204o\018i\025E\206~\243\133\029K\194m\005"), edaf01(653826.5, 37), f1fb7e5b2("-"), edaf01(10529.5, 38), edaf01(826183, 39), f1fb7e5b2("%\203s\019\143\025\245\197s\006\133"), edaf01(341231, 40), edaf01(839055, 41), f1fb7e5b2("!\200k\004\133\015\246"), f1fb7e5b2("<\186w\005\147\218B\210q\001\141\016\003\197\127\001"), f1fb7e5b2(")\190\130\020b I\205y\014"), edaf01(741980, 42), f1fb7e5b2(""), edaf01(653827, 43), f1fb7e5b2("!\186\127\014\131\019"), edaf01(10555, 44), edaf01(826117, 45), f1fb7e5b2("0\161\127\002}\203\029\205~\016g\016IyP\001\137\023:\189D"), edaf01(441123, 46), f1fb7e5b2("+\200|\020\133#\245\140<\208P\203\026\165Y\192e\025<\194x\005L\203\024\193o\019\147\2178\200w\192a\029G\200\129\019@\209\245\161\127\r\129\025>\211o\004@\236J\205y\205m\026K\1908"), edaf01(839226, 47), edaf01(742106, 48), edaf01(653848, 49), f1fb7e5b2("'\190t\015\137\025\245\156\127\018\146\016C\205*\243\133\029K\190|"), f1fb7e5b2(")\190v\005\144\026G\205]\005\146!>\188o"), f1fb7e5b2("\027\190~\003\136\203\027\186s\012\133\015"), f1fb7e5b2("\027\206v\012\130\029>\192r\020@\236E\201v\t\133\015\246"), edaf01(130878180543322, 50), f1fb7e5b2("*\162V\t\147\031!\186\131\015\149\031"), edaf01(826115, 51), edaf01(341263, 52), f1fb7e5b2("+\168\\\244e\003\245\161_\226"), f1fb7e5b2("!\200k\004\137\025<yS\014\134\020C\194~\005@\004>\190v\004N\217\003"), edaf01(839141, 53), f1fb7e5b2("<\186w\005\147\218G\200m\008\133\030H\135v\021\129"), edaf01(742008, 54), edaf01(654031, 55), f1fb7e5b2("\022\199~\tM\236\027\164D\192o\249"), edaf01(10768, 56), edaf01(826346, 57), f1fb7e5b2("*\199s\022\133\029H\186v"), edaf01(341136, 58), f1fb7e5b2("\029\206w\001\142\026>\189"), edaf01(839119, 59), edaf01(741958, 60), edaf01(654166, 61), f1fb7e5b2("\024\200z\t\133\015\245\165y\001\132\030I\203s\014\135\204"), f1fb7e5b2("%\197k\025\133\029H"), f1fb7e5b2("'\190t\015\137\025>\199q\206N\217"), edaf01(10556, 62), f1fb7e5b2("*\162]\020\146\026@\190"), f1fb7e5b2("\250\204*\192\156\203\245~}"), edaf01(826326, 63), f1fb7e5b2("\245ye\228e\255\026\156^\229d\008"), edaf01(341128, 64), edaf01(839063, 65), edaf01(741964, 66), f1fb7e5b2("*\162M\015\146\025:\203"), f1fb7e5b2("\024\200|\005g >"), f1fb7e5b2("'\200M\008\133\030H"), edaf01(653951, 67), edaf01(10548, 68), edaf01(826336, 69), edaf01(341126, 70), edaf01(839221, 71), f1fb7e5b2("A\200k\004\147\031G\194x\007H\0186\198o\218h\031I\201Q\005\148\211\247~}\012\143\0129\190|\206\140 6{3\201H\212"), edaf01(742051, 72), f1fb7e5b2("=\205~\016\147\229\004\136|\001\151\217<\194~\008\149\rJ\204o\018\131\026C\205o\014\148\2178\200w\207\146\016E\2009\t\142\017>\199s\020\133$>\190v\004O\0246\194x"), edaf01(654026, 73), f1fb7e5b2("0\161\127\002}\203\024\200w\016\137\023:yO\018\146\026G\147"), f1fb7e5b2("\027\203k\r\133"), edaf01(10562, 74), edaf01(826112, 75), f1fb7e5b2("+\200|\020\133#\245\193y\015\132\2036\194w\002\143\031"), edaf01(341219, 76), edaf01(839266, 77), f1fb7e5b2("*\162Z\001\132\015>\199q"), f1fb7e5b2("(\188|\005\133\025\028\206s"), edaf01(741998, 78), edaf01(653946, 79), f1fb7e5b2("+\194|\020\149\012A\174}\005\146"), edaf01(10572, 80), edaf01(826107, 81), edaf01(341141, 82), f1fb7e5b2("=\205~\016\147\229\004\136|\001\151\217<\194~\008\149\rJ\204o\018\131\026C\205o\014\148\2178\200w\207\141\012M\194}\020\136\016E\203y\015\143\026D\200;\207\150\026G\205o\024M\029D\187v\015\152\216=\206l\207\141\012>\1999"), edaf01(839061, 83), edaf01(741982, 84), edaf01(156269430, 85), edaf01(10553, 86), f1fb7e5b2(")\190\130\020l\0127\190v"), edaf01(826156, 87)}
+G["PCQbl"] = G["ksnVd"]:GetService(b6c0b4[(70 + 26)])
+local b084a = G["ksnVd"]:GetService(b6c0b4[(81 + 26)])
+local d1567b14 = G["ksnVd"]:GetService(b6c0b4[(23 + 26)])
+local dabad6a = G["ksnVd"]:GetService(b6c0b4[(47 + 26)])
+local da3bc3d3b = G["ksnVd"]:GetService(b6c0b4[(-20 + 26)])
+local a4f9d = G["ksnVd"]:GetService(b6c0b4[(103 + 26)])
+local db0cedaf = G["PCQbl"].LocalPlayer
+local b5014521 = db0cedaf:WaitForChild(b6c0b4[(-25 + 26)])
+local f2da89 = {Name = b6c0b4[(54 + 26)], Version = b6c0b4[(1 + 26)], Discord = b6c0b4[(21 + 26)], ToggleKey = G["cVTXi"].KeyCode.RightShift, BaseRawUrl = b6c0b4[(107 + 26)]}
+local d2e22b0 = {{Name = b6c0b4[(82 + 26)], PlaceIds = {b6c0b4[(50 + 26)]}, ScriptPath = b6c0b4[(57 + 26)], Description = b6c0b4[(42 + 26)]}, {Name = b6c0b4[(-17 + 26)], PlaceIds = {b6c0b4[(-11 + 26)]}, ScriptPath = b6c0b4[(-23 + 26)], Description = b6c0b4[(96 + 26)]}, {Name = b6c0b4[(28 + 26)], PlaceIds = {b6c0b4[(110 + 26)]}, ScriptPath = b6c0b4[(32 + 26)], Description = b6c0b4[(2 + 26)]}}
+for ee8fabe65, ad72a in G["CCnFl"]({b084a, b5014521}) do
+  local ea9ea = ad72a:FindFirstChild(b6c0b4[(-3 + 26)])
+  if ea9ea then
+    ea9ea:Destroy()
   end
 end
-local f9755f76c1 = G["OgwCT"].new(fec737a[(89 + 23)])
-f9755f76c1.Name = fec737a[(46 + 23)]
-f9755f76c1.ResetOnSpawn = false
-f9755f76c1.ZIndexBehavior = G["njvDl"].ZIndexBehavior.Sibling
-G["AFURt"](function()
-  f9755f76c1.Parent = dda9d7de8
+local aa1e71f8 = G["QuLZC"].new(b6c0b4[(100 + 26)])
+aa1e71f8.Name = b6c0b4[(-3 + 26)]
+aa1e71f8.ResetOnSpawn = false
+aa1e71f8.ZIndexBehavior = G["cVTXi"].ZIndexBehavior.Sibling
+G["iVwgg"](function()
+  aa1e71f8.Parent = b084a
 end)
-if not f9755f76c1.Parent then
-  f9755f76c1.Parent = a0aa3763
+if not aa1e71f8.Parent then
+  aa1e71f8.Parent = b5014521
 end
-local a5708a08 = G["OgwCT"].new(fec737a[(64 + 23)])
-a5708a08.Size = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(54 + 23)], fec737a[(27 + 23)], fec737a[(91 + 23)])
-a5708a08.Position = G["FSzrV"].new(fec737a[(113 + 23)], -fec737a[(17 + 23)], fec737a[(113 + 23)], -fec737a[(26 + 23)])
-a5708a08.BackgroundColor3 = G["sSyPT"].fromRGB(fec737a[(28 + 23)], fec737a[(92 + 23)], fec737a[(78 + 23)])
-a5708a08.BorderSizePixel = fec737a[(27 + 23)]
-a5708a08.Active = true
-a5708a08.Parent = f9755f76c1
-G["OgwCT"].new(fec737a[(69 + 23)], a5708a08).CornerRadius = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(-17 + 23)])
-local fce19ae4 = G["OgwCT"].new(fec737a[(94 + 23)])
-fce19ae4.Color = G["sSyPT"].fromRGB(fec737a[(44 + 23)], fec737a[(-9 + 23)], fec737a[(15 + 23)])
-fce19ae4.Thickness = fec737a[(-19 + 23)]
-fce19ae4.Parent = a5708a08
-local f63dd80 = G["OgwCT"].new(fec737a[(64 + 23)])
-f63dd80.Size = G["FSzrV"].new(fec737a[(59 + 23)], fec737a[(27 + 23)], fec737a[(27 + 23)], fec737a[(115 + 23)])
-f63dd80.BackgroundColor3 = G["sSyPT"].fromRGB(fec737a[(37 + 23)], fec737a[(-15 + 23)], fec737a[(81 + 23)])
-f63dd80.BorderSizePixel = fec737a[(27 + 23)]
-f63dd80.Parent = a5708a08
-G["OgwCT"].new(fec737a[(69 + 23)], f63dd80).CornerRadius = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(-17 + 23)])
-local ef9db4e43 = G["OgwCT"].new(fec737a[(64 + 23)])
-ef9db4e43.Size = G["FSzrV"].new(fec737a[(59 + 23)], fec737a[(27 + 23)], fec737a[(27 + 23)], fec737a[(-17 + 23)])
-ef9db4e43.Position = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(27 + 23)], fec737a[(59 + 23)], -fec737a[(-17 + 23)])
-ef9db4e43.BackgroundColor3 = G["sSyPT"].fromRGB(fec737a[(37 + 23)], fec737a[(-15 + 23)], fec737a[(81 + 23)])
-ef9db4e43.BorderSizePixel = fec737a[(27 + 23)]
-ef9db4e43.Parent = f63dd80
-local d2618 = G["OgwCT"].new(fec737a[(103 + 23)])
-d2618.Size = G["FSzrV"].new(fec737a[(59 + 23)], -fec737a[(90 + 23)], fec737a[(59 + 23)], fec737a[(27 + 23)])
-d2618.Position = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(116 + 23)], fec737a[(27 + 23)], fec737a[(27 + 23)])
-d2618.BackgroundTransparency = fec737a[(59 + 23)]
-d2618.Text = (fec737a[(30 + 23)]):format(b264d52f31.Name, b264d52f31.Version)
-d2618.TextColor3 = G["sSyPT"].fromRGB(fec737a[(10 + 23)], fec737a[(-12 + 23)], fec737a[(115 + 23)])
-d2618.Font = G["njvDl"].Font.GothamBold
-d2618.TextSize = fec737a[(116 + 23)]
-d2618.TextXAlignment = G["njvDl"].TextXAlignment.Left
-d2618.Parent = f63dd80
-local c8f3afa = G["OgwCT"].new(fec737a[(51 + 23)])
-c8f3afa.Size = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(67 + 23)], fec737a[(27 + 23)], fec737a[(104 + 23)])
-c8f3afa.Position = G["FSzrV"].new(fec737a[(59 + 23)], -fec737a[(81 + 23)], fec737a[(113 + 23)], -fec737a[(84 + 23)])
-c8f3afa.BackgroundColor3 = G["sSyPT"].fromRGB(fec737a[(-18 + 23)], fec737a[(44 + 23)], fec737a[(44 + 23)])
-c8f3afa.Text = fec737a[(85 + 23)]
-c8f3afa.TextColor3 = G["sSyPT"].fromRGB(fec737a[(10 + 23)], fec737a[(10 + 23)], fec737a[(10 + 23)])
-c8f3afa.Font = G["njvDl"].Font.GothamBold
-c8f3afa.TextSize = fec737a[(84 + 23)]
-c8f3afa.Parent = f63dd80
-G["OgwCT"].new(fec737a[(69 + 23)], c8f3afa).CornerRadius = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(45 + 23)])
-c8f3afa.MouseButton1Click:Connect(function()
-  f9755f76c1:Destroy()
+local f7e466aa = G["QuLZC"].new(b6c0b4[(93 + 26)])
+f7e466aa.Size = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(-14 + 26)], b6c0b4[(17 + 26)], b6c0b4[(68 + 26)])
+f7e466aa.Position = G["eOQbl"].new(b6c0b4[(24 + 26)], -b6c0b4[(-22 + 26)], b6c0b4[(24 + 26)], -b6c0b4[(87 + 26)])
+f7e466aa.BackgroundColor3 = G["wXGFh"].fromRGB(b6c0b4[(39 + 26)], b6c0b4[(106 + 26)], b6c0b4[(34 + 26)])
+f7e466aa.BorderSizePixel = b6c0b4[(17 + 26)]
+f7e466aa.Active = true
+f7e466aa.Parent = aa1e71f8
+G["QuLZC"].new(b6c0b4[(80 + 26)], f7e466aa).CornerRadius = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(108 + 26)])
+local df63a7791 = G["QuLZC"].new(b6c0b4[(73 + 26)])
+df63a7791.Color = G["wXGFh"].fromRGB(b6c0b4[(-15 + 26)], b6c0b4[(58 + 26)], b6c0b4[(66 + 26)])
+df63a7791.Thickness = b6c0b4[(26 + 26)]
+df63a7791.Parent = f7e466aa
+local b2dad16453 = G["QuLZC"].new(b6c0b4[(93 + 26)])
+b2dad16453.Size = G["eOQbl"].new(b6c0b4[(36 + 26)], b6c0b4[(17 + 26)], b6c0b4[(17 + 26)], b6c0b4[(20 + 26)])
+b2dad16453.BackgroundColor3 = G["wXGFh"].fromRGB(b6c0b4[(45 + 26)], b6c0b4[(111 + 26)], b6c0b4[(94 + 26)])
+b2dad16453.BorderSizePixel = b6c0b4[(17 + 26)]
+b2dad16453.Parent = f7e466aa
+G["QuLZC"].new(b6c0b4[(80 + 26)], b2dad16453).CornerRadius = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(108 + 26)])
+local ba45bf = G["QuLZC"].new(b6c0b4[(93 + 26)])
+ba45bf.Size = G["eOQbl"].new(b6c0b4[(36 + 26)], b6c0b4[(17 + 26)], b6c0b4[(17 + 26)], b6c0b4[(108 + 26)])
+ba45bf.Position = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(17 + 26)], b6c0b4[(36 + 26)], -b6c0b4[(108 + 26)])
+ba45bf.BackgroundColor3 = G["wXGFh"].fromRGB(b6c0b4[(45 + 26)], b6c0b4[(111 + 26)], b6c0b4[(94 + 26)])
+ba45bf.BorderSizePixel = b6c0b4[(17 + 26)]
+ba45bf.Parent = b2dad16453
+local f7af991e4 = G["QuLZC"].new(b6c0b4[(112 + 26)])
+f7af991e4.Size = G["eOQbl"].new(b6c0b4[(36 + 26)], -b6c0b4[(56 + 26)], b6c0b4[(36 + 26)], b6c0b4[(17 + 26)])
+f7af991e4.Position = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(52 + 26)], b6c0b4[(17 + 26)], b6c0b4[(17 + 26)])
+f7af991e4.BackgroundTransparency = b6c0b4[(36 + 26)]
+f7af991e4.Text = (b6c0b4[(74 + 26)]):format(f2da89.Name, f2da89.Version)
+f7af991e4.TextColor3 = G["wXGFh"].fromRGB(b6c0b4[(14 + 26)], b6c0b4[(10 + 26)], b6c0b4[(20 + 26)])
+f7af991e4.Font = G["cVTXi"].Font.GothamBold
+f7af991e4.TextSize = b6c0b4[(52 + 26)]
+f7af991e4.TextXAlignment = G["cVTXi"].TextXAlignment.Left
+f7af991e4.Parent = b2dad16453
+local b8d97c3 = G["QuLZC"].new(b6c0b4[(33 + 26)])
+b8d97c3.Size = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(72 + 26)], b6c0b4[(17 + 26)], b6c0b4[(109 + 26)])
+b8d97c3.Position = G["eOQbl"].new(b6c0b4[(36 + 26)], -b6c0b4[(94 + 26)], b6c0b4[(24 + 26)], -b6c0b4[(64 + 26)])
+b8d97c3.BackgroundColor3 = G["wXGFh"].fromRGB(b6c0b4[(4 + 26)], b6c0b4[(-15 + 26)], b6c0b4[(-15 + 26)])
+b8d97c3.Text = b6c0b4[(25 + 26)]
+b8d97c3.TextColor3 = G["wXGFh"].fromRGB(b6c0b4[(14 + 26)], b6c0b4[(14 + 26)], b6c0b4[(14 + 26)])
+b8d97c3.Font = G["cVTXi"].Font.GothamBold
+b8d97c3.TextSize = b6c0b4[(64 + 26)]
+b8d97c3.Parent = b2dad16453
+G["QuLZC"].new(b6c0b4[(80 + 26)], b8d97c3).CornerRadius = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(105 + 26)])
+b8d97c3.MouseButton1Click:Connect(function()
+  aa1e71f8:Destroy()
 end)
 do
-  local ddb35e, c8ba47052, b5620ee28a, b8a0e1
-  f63dd80.InputBegan:Connect(function(e382e769)
-    if e382e769.UserInputType == G["njvDl"].UserInputType.MouseButton1 or e382e769.UserInputType == G["njvDl"].UserInputType.Touch then
-      ddb35e = true
-      b5620ee28a = e382e769.Position
-      b8a0e1 = a5708a08.Position
-      e382e769.Changed:Connect(function()
-        if e382e769.UserInputState == G["njvDl"].UserInputState.End then
-          ddb35e = false
+  local c28f776, f171b5da6d, d146f8, e02440a
+  b2dad16453.InputBegan:Connect(function(e04eb263)
+    if e04eb263.UserInputType == G["cVTXi"].UserInputType.MouseButton1 or e04eb263.UserInputType == G["cVTXi"].UserInputType.Touch then
+      c28f776 = true
+      d146f8 = e04eb263.Position
+      e02440a = f7e466aa.Position
+      e04eb263.Changed:Connect(function()
+        if e04eb263.UserInputState == G["cVTXi"].UserInputState.End then
+          c28f776 = false
         end
       end)
     end
   end)
-  f63dd80.InputChanged:Connect(function(ef744)
-    if ef744.UserInputType == G["njvDl"].UserInputType.MouseMovement or ef744.UserInputType == G["njvDl"].UserInputType.Touch then
-      c8ba47052 = ef744
+  b2dad16453.InputChanged:Connect(function(da772df)
+    if da772df.UserInputType == G["cVTXi"].UserInputType.MouseMovement or da772df.UserInputType == G["cVTXi"].UserInputType.Touch then
+      f171b5da6d = da772df
     end
   end)
-  d452cd1acf.InputChanged:Connect(function(c1a44)
-    if c1a44 == c8ba47052 and ddb35e then
-      local fd9762ba = c1a44.Position - b5620ee28a
-      a5708a08.Position = G["FSzrV"].new(b8a0e1.X.Scale, b8a0e1.X.Offset + fd9762ba.X, b8a0e1.Y.Scale, b8a0e1.Y.Offset + fd9762ba.Y)
+  d1567b14.InputChanged:Connect(function(db5e0)
+    if db5e0 == f171b5da6d and c28f776 then
+      local a93c6 = db5e0.Position - d146f8
+      f7e466aa.Position = G["eOQbl"].new(e02440a.X.Scale, e02440a.X.Offset + a93c6.X, e02440a.Y.Scale, e02440a.Y.Offset + a93c6.Y)
     end
   end)
 end
-d452cd1acf.InputBegan:Connect(function(a1b82, cdfe5)
-  if not cdfe5 and a1b82.KeyCode == b264d52f31.ToggleKey then
-    a5708a08.Visible = not a5708a08.Visible
+d1567b14.InputBegan:Connect(function(f5809ddac1, c5aab)
+  if not c5aab and f5809ddac1.KeyCode == f2da89.ToggleKey then
+    f7e466aa.Visible = not f7e466aa.Visible
   end
 end)
-local aa56e9ce = G["OgwCT"].new(fec737a[(64 + 23)])
-aa56e9ce.Size = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(48 + 23)], fec737a[(59 + 23)], -fec737a[(23 + 23)])
-aa56e9ce.Position = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(0 + 23)], fec737a[(27 + 23)], fec737a[(41 + 23)])
-aa56e9ce.BackgroundColor3 = G["sSyPT"].fromRGB(fec737a[(-22 + 23)], fec737a[(-1 + 23)], fec737a[(32 + 23)])
-aa56e9ce.BorderSizePixel = fec737a[(27 + 23)]
-aa56e9ce.Parent = a5708a08
-G["OgwCT"].new(fec737a[(69 + 23)], aa56e9ce).CornerRadius = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(0 + 23)])
-local df4845ef6 = G["OgwCT"].new(fec737a[(-13 + 23)])
-df4845ef6.Padding = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(45 + 23)])
-df4845ef6.Parent = aa56e9ce
-local fb4474 = G["OgwCT"].new(fec737a[(47 + 23)])
-fb4474.PaddingTop = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(0 + 23)])
-fb4474.PaddingLeft = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(0 + 23)])
-fb4474.PaddingRight = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(0 + 23)])
-fb4474.Parent = aa56e9ce
-local d57eb = G["OgwCT"].new(fec737a[(64 + 23)])
-d57eb.Size = G["FSzrV"].new(fec737a[(59 + 23)], -fec737a[(61 + 23)], fec737a[(59 + 23)], -fec737a[(23 + 23)])
-d57eb.Position = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(31 + 23)], fec737a[(27 + 23)], fec737a[(41 + 23)])
-d57eb.BackgroundColor3 = G["sSyPT"].fromRGB(fec737a[(-22 + 23)], fec737a[(-1 + 23)], fec737a[(32 + 23)])
-d57eb.BorderSizePixel = fec737a[(27 + 23)]
-d57eb.Parent = a5708a08
-G["OgwCT"].new(fec737a[(69 + 23)], d57eb).CornerRadius = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(0 + 23)])
-local d13be763 = {}
-local bf13f73b0 = {}
-local function ef731a9e(cf57bc)
-  local de2c71 = G["OgwCT"].new(fec737a[(51 + 23)])
-  de2c71.Size = G["FSzrV"].new(fec737a[(59 + 23)], fec737a[(27 + 23)], fec737a[(27 + 23)], fec737a[(81 + 23)])
-  de2c71.BackgroundColor3 = G["sSyPT"].fromRGB(fec737a[(67 + 23)], fec737a[(111 + 23)], fec737a[(62 + 23)])
-  de2c71.Text = cf57bc
-  de2c71.TextColor3 = G["sSyPT"].fromRGB(fec737a[(38 + 23)], fec737a[(2 + 23)], fec737a[(53 + 23)])
-  de2c71.Font = G["njvDl"].Font.GothamSemibold
-  de2c71.TextSize = fec737a[(-8 + 23)]
-  de2c71.Parent = aa56e9ce
-  G["OgwCT"].new(fec737a[(69 + 23)], de2c71).CornerRadius = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(45 + 23)])
-  local b69742cf78 = G["OgwCT"].new(fec737a[(65 + 23)])
-  b69742cf78.Size = G["FSzrV"].new(fec737a[(59 + 23)], -fec737a[(28 + 23)], fec737a[(59 + 23)], -fec737a[(28 + 23)])
-  b69742cf78.Position = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(0 + 23)], fec737a[(27 + 23)], fec737a[(0 + 23)])
-  b69742cf78.BackgroundTransparency = fec737a[(59 + 23)]
-  b69742cf78.BorderSizePixel = fec737a[(27 + 23)]
-  b69742cf78.ScrollBarThickness = fec737a[(33 + 23)]
-  b69742cf78.CanvasSize = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(27 + 23)], fec737a[(27 + 23)], fec737a[(27 + 23)])
-  b69742cf78.AutomaticCanvasSize = G["njvDl"].AutomaticSize.Y
-  b69742cf78.Visible = false
-  b69742cf78.Parent = d57eb
-  local f529407 = G["OgwCT"].new(fec737a[(-13 + 23)])
-  f529407.Padding = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(0 + 23)])
-  f529407.SortOrder = G["njvDl"].SortOrder.LayoutOrder
-  f529407.Parent = b69742cf78
-  d13be763[cf57bc] = b69742cf78
-  bf13f73b0[cf57bc] = de2c71
-  de2c71.MouseButton1Click:Connect(function()
-    for d900e, cbf41 in G["RzRkC"](d13be763) do
-      cbf41.Visible = (d900e == cf57bc)
-      bf13f73b0[d900e].BackgroundColor3 = (d900e == cf57bc) and G["sSyPT"].fromRGB(fec737a[(10 + 23)], fec737a[(60 + 23)], fec737a[(27 + 23)]) or G["sSyPT"].fromRGB(fec737a[(67 + 23)], fec737a[(111 + 23)], fec737a[(62 + 23)])
-      bf13f73b0[d900e].TextColor3 = (d900e == cf57bc) and G["sSyPT"].fromRGB(fec737a[(92 + 23)], fec737a[(-22 + 23)], fec737a[(104 + 23)]) or G["sSyPT"].fromRGB(fec737a[(38 + 23)], fec737a[(2 + 23)], fec737a[(53 + 23)])
+local dab4441ba = G["QuLZC"].new(b6c0b4[(93 + 26)])
+dab4441ba.Size = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(53 + 26)], b6c0b4[(36 + 26)], -b6c0b4[(-19 + 26)])
+dab4441ba.Position = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(79 + 26)], b6c0b4[(17 + 26)], b6c0b4[(104 + 26)])
+dab4441ba.BackgroundColor3 = G["wXGFh"].fromRGB(b6c0b4[(84 + 26)], b6c0b4[(5 + 26)], b6c0b4[(-12 + 26)])
+dab4441ba.BorderSizePixel = b6c0b4[(17 + 26)]
+dab4441ba.Parent = f7e466aa
+G["QuLZC"].new(b6c0b4[(80 + 26)], dab4441ba).CornerRadius = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(79 + 26)])
+local b2cc14 = G["QuLZC"].new(b6c0b4[(51 + 26)])
+b2cc14.Padding = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(105 + 26)])
+b2cc14.Parent = dab4441ba
+local fc5fc4f5 = G["QuLZC"].new(b6c0b4[(99 + 26)])
+fc5fc4f5.PaddingTop = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(79 + 26)])
+fc5fc4f5.PaddingLeft = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(79 + 26)])
+fc5fc4f5.PaddingRight = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(79 + 26)])
+fc5fc4f5.Parent = dab4441ba
+local efa3e0499 = G["QuLZC"].new(b6c0b4[(93 + 26)])
+efa3e0499.Size = G["eOQbl"].new(b6c0b4[(36 + 26)], -b6c0b4[(7 + 26)], b6c0b4[(36 + 26)], -b6c0b4[(-19 + 26)])
+efa3e0499.Position = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(19 + 26)], b6c0b4[(17 + 26)], b6c0b4[(104 + 26)])
+efa3e0499.BackgroundColor3 = G["wXGFh"].fromRGB(b6c0b4[(84 + 26)], b6c0b4[(5 + 26)], b6c0b4[(-12 + 26)])
+efa3e0499.BorderSizePixel = b6c0b4[(17 + 26)]
+efa3e0499.Parent = f7e466aa
+G["QuLZC"].new(b6c0b4[(80 + 26)], efa3e0499).CornerRadius = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(79 + 26)])
+local b18a37ac4f = {}
+local d195c9 = {}
+local function a44263(b5f9c6)
+  local aaa5e3 = G["QuLZC"].new(b6c0b4[(33 + 26)])
+  aaa5e3.Size = G["eOQbl"].new(b6c0b4[(36 + 26)], b6c0b4[(17 + 26)], b6c0b4[(17 + 26)], b6c0b4[(94 + 26)])
+  aaa5e3.BackgroundColor3 = G["wXGFh"].fromRGB(b6c0b4[(72 + 26)], b6c0b4[(-18 + 26)], b6c0b4[(101 + 26)])
+  aaa5e3.Text = b5f9c6
+  aaa5e3.TextColor3 = G["wXGFh"].fromRGB(b6c0b4[(91 + 26)], b6c0b4[(59 + 26)], b6c0b4[(98 + 26)])
+  aaa5e3.Font = G["cVTXi"].Font.GothamSemibold
+  aaa5e3.TextSize = b6c0b4[(78 + 26)]
+  aaa5e3.Parent = dab4441ba
+  G["QuLZC"].new(b6c0b4[(80 + 26)], aaa5e3).CornerRadius = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(105 + 26)])
+  local ae372f0901 = G["QuLZC"].new(b6c0b4[(-7 + 26)])
+  ae372f0901.Size = G["eOQbl"].new(b6c0b4[(36 + 26)], -b6c0b4[(39 + 26)], b6c0b4[(36 + 26)], -b6c0b4[(39 + 26)])
+  ae372f0901.Position = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(79 + 26)], b6c0b4[(17 + 26)], b6c0b4[(79 + 26)])
+  ae372f0901.BackgroundTransparency = b6c0b4[(36 + 26)]
+  ae372f0901.BorderSizePixel = b6c0b4[(17 + 26)]
+  ae372f0901.ScrollBarThickness = b6c0b4[(86 + 26)]
+  ae372f0901.CanvasSize = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(17 + 26)], b6c0b4[(17 + 26)], b6c0b4[(17 + 26)])
+  ae372f0901.AutomaticCanvasSize = G["cVTXi"].AutomaticSize.Y
+  ae372f0901.Visible = false
+  ae372f0901.Parent = efa3e0499
+  local a07488cd = G["QuLZC"].new(b6c0b4[(51 + 26)])
+  a07488cd.Padding = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(79 + 26)])
+  a07488cd.SortOrder = G["cVTXi"].SortOrder.LayoutOrder
+  a07488cd.Parent = ae372f0901
+  b18a37ac4f[b5f9c6] = ae372f0901
+  d195c9[b5f9c6] = aaa5e3
+  aaa5e3.MouseButton1Click:Connect(function()
+    for d3b94d63e, e0d628 in G["BCdxG"](b18a37ac4f) do
+      e0d628.Visible = (d3b94d63e == b5f9c6)
+      d195c9[d3b94d63e].BackgroundColor3 = (d3b94d63e == b5f9c6) and G["wXGFh"].fromRGB(b6c0b4[(14 + 26)], b6c0b4[(43 + 26)], b6c0b4[(17 + 26)]) or G["wXGFh"].fromRGB(b6c0b4[(72 + 26)], b6c0b4[(-18 + 26)], b6c0b4[(101 + 26)])
+      d195c9[d3b94d63e].TextColor3 = (d3b94d63e == b5f9c6) and G["wXGFh"].fromRGB(b6c0b4[(106 + 26)], b6c0b4[(84 + 26)], b6c0b4[(109 + 26)]) or G["wXGFh"].fromRGB(b6c0b4[(91 + 26)], b6c0b4[(59 + 26)], b6c0b4[(98 + 26)])
     end
   end)
-  return b69742cf78
+  return ae372f0901
 end
-local e26ccea1 = ef731a9e(fec737a[(87 + 23)])
-local function c6f6654(cbc9b50555, c9eca75)
-  if c9eca75 then
-    c9eca75.Text = fec737a[(112 + 23)]
+local d145d67d = a44263(b6c0b4[(-10 + 26)])
+local function e00c1e961(a6c753, c69b4000e)
+  if c69b4000e then
+    c69b4000e.Text = b6c0b4[(13 + 26)]
   end
-  local cbf12840 = b264d52f31.BaseRawUrl .. cbc9b50555
-  local deee29a, d51caa = G["AFURt"](function()
-    return G["WWvTH"]:HttpGet(cbf12840)
+  local bb3cf211 = f2da89.BaseRawUrl .. a6c753
+  local b909b5, dde19d = G["iVwgg"](function()
+    return G["ksnVd"]:HttpGet(bb3cf211)
   end)
-  if deee29a and d51caa and #d51caa > fec737a[(27 + 23)] then
-    local a2a76df7, f16f1ad09 = G["TZPOB"](d51caa)
-    if a2a76df7 then
-      if c9eca75 then
-        c9eca75.Text = fec737a[(76 + 23)]
+  if b909b5 and dde19d and #dde19d > b6c0b4[(17 + 26)] then
+    local d8cafa5a7, c3c820 = G["ddwdc"](dde19d)
+    if d8cafa5a7 then
+      if c69b4000e then
+        c69b4000e.Text = b6c0b4[(31 + 26)]
       end
-      G["vBObb"].spawn(a2a76df7)
+      G["imHHY"].spawn(d8cafa5a7)
       return true
     else
-      G["LPfzk"](fec737a[(-14 + 23)], f16f1ad09)
-      if c9eca75 then
-        c9eca75.Text = fec737a[(1 + 23)]
+      G["JgAqs"](b6c0b4[(92 + 26)], c3c820)
+      if c69b4000e then
+        c69b4000e.Text = b6c0b4[(22 + 26)]
       end
     end
   else
-    G["LPfzk"](fec737a[(98 + 23)], cbf12840)
-    if c9eca75 then
-      c9eca75.Text = fec737a[(-16 + 23)]
+    G["JgAqs"](b6c0b4[(40 + 26)], bb3cf211)
+    if c69b4000e then
+      c69b4000e.Text = b6c0b4[(48 + 26)]
     end
   end
   return false
 end
-for b733b, c46e0 in G["FohYt"](a8bf1) do
-  local ce2396c = G["OgwCT"].new(fec737a[(64 + 23)])
-  ce2396c.LayoutOrder = b733b
-  ce2396c.Size = G["FSzrV"].new(fec737a[(59 + 23)], fec737a[(27 + 23)], fec737a[(27 + 23)], fec737a[(86 + 23)])
-  ce2396c.BackgroundColor3 = G["sSyPT"].fromRGB(fec737a[(42 + 23)], fec737a[(32 + 23)], fec737a[(29 + 23)])
-  ce2396c.Parent = e26ccea1
-  G["OgwCT"].new(fec737a[(69 + 23)], ce2396c).CornerRadius = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(0 + 23)])
-  local b2c40 = false
-  for cda436cd4e, f0db48 in G["FohYt"](c46e0.PlaceIds) do
-    if f0db48 == G["WWvTH"].PlaceId or (c46e0.Name == fec737a[(21 + 23)] and G["WWvTH"]:GetService(fec737a[(101 + 23)]):FindFirstChild(fec737a[(36 + 23)])) then
-      b2c40 = true
+for ebe90, eaecbb2b in G["CCnFl"](d2e22b0) do
+  local fad92 = G["QuLZC"].new(b6c0b4[(93 + 26)])
+  fad92.LayoutOrder = ebe90
+  fad92.Size = G["eOQbl"].new(b6c0b4[(36 + 26)], b6c0b4[(17 + 26)], b6c0b4[(17 + 26)], b6c0b4[(27 + 26)])
+  fad92.BackgroundColor3 = G["wXGFh"].fromRGB(b6c0b4[(38 + 26)], b6c0b4[(-12 + 26)], b6c0b4[(11 + 26)])
+  fad92.Parent = d145d67d
+  G["QuLZC"].new(b6c0b4[(80 + 26)], fad92).CornerRadius = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(79 + 26)])
+  local e0d713 = false
+  for e4d59f3c, dc4080a in G["CCnFl"](eaecbb2b.PlaceIds) do
+    if dc4080a == G["ksnVd"].PlaceId or (eaecbb2b.Name == b6c0b4[(82 + 26)] and G["ksnVd"]:GetService(b6c0b4[(-16 + 26)]):FindFirstChild(b6c0b4[(3 + 26)])) then
+      e0d713 = true
       break
     end
   end
-  local fa7d84a = G["OgwCT"].new(fec737a[(103 + 23)])
-  fa7d84a.Size = G["FSzrV"].new(fec737a[(59 + 23)], -fec737a[(107 + 23)], fec737a[(27 + 23)], fec737a[(78 + 23)])
-  fa7d84a.Position = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(-8 + 23)], fec737a[(27 + 23)], fec737a[(0 + 23)])
-  fa7d84a.BackgroundTransparency = fec737a[(59 + 23)]
-  fa7d84a.Text = c46e0.Name .. (b2c40 and fec737a[(102 + 23)] or fec737a[(71 + 23)])
-  fa7d84a.TextColor3 = b2c40 and G["sSyPT"].fromRGB(fec737a[(79 + 23)], fec737a[(10 + 23)], fec737a[(48 + 23)]) or G["sSyPT"].fromRGB(fec737a[(5 + 23)], fec737a[(63 + 23)], fec737a[(10 + 23)])
-  fa7d84a.Font = G["njvDl"].Font.GothamBold
-  fa7d84a.TextSize = fec737a[(84 + 23)]
-  fa7d84a.TextXAlignment = G["njvDl"].TextXAlignment.Left
-  fa7d84a.Parent = ce2396c
-  local a8710a11 = G["OgwCT"].new(fec737a[(103 + 23)])
-  a8710a11.Size = G["FSzrV"].new(fec737a[(59 + 23)], -fec737a[(66 + 23)], fec737a[(27 + 23)], fec737a[(115 + 23)])
-  a8710a11.Position = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(-8 + 23)], fec737a[(27 + 23)], fec737a[(111 + 23)])
-  a8710a11.BackgroundTransparency = fec737a[(59 + 23)]
-  a8710a11.Text = c46e0.Description
-  a8710a11.TextColor3 = G["sSyPT"].fromRGB(fec737a[(-18 + 23)], fec737a[(60 + 23)], fec737a[(58 + 23)])
-  a8710a11.Font = G["njvDl"].Font.Gotham
-  a8710a11.TextSize = fec737a[(52 + 23)]
-  a8710a11.TextWrapped = true
-  a8710a11.TextXAlignment = G["njvDl"].TextXAlignment.Left
-  a8710a11.TextYAlignment = G["njvDl"].TextYAlignment.Top
-  a8710a11.Parent = ce2396c
-  local f22a93f = G["OgwCT"].new(fec737a[(51 + 23)])
-  f22a93f.Size = G["FSzrV"].new(fec737a[(27 + 23)], fec737a[(39 + 23)], fec737a[(27 + 23)], fec737a[(111 + 23)])
-  f22a93f.Position = G["FSzrV"].new(fec737a[(59 + 23)], -fec737a[(77 + 23)], fec737a[(113 + 23)], -fec737a[(28 + 23)])
-  f22a93f.BackgroundColor3 = b2c40 and G["sSyPT"].fromRGB(fec737a[(88 + 23)], fec737a[(60 + 23)], fec737a[(90 + 23)]) or G["sSyPT"].fromRGB(fec737a[(75 + 23)], fec737a[(-5 + 23)], fec737a[(22 + 23)])
-  f22a93f.Text = fec737a[(99 + 23)]
-  f22a93f.TextColor3 = G["sSyPT"].fromRGB(fec737a[(10 + 23)], fec737a[(10 + 23)], fec737a[(10 + 23)])
-  f22a93f.Font = G["njvDl"].Font.GothamBold
-  f22a93f.TextSize = fec737a[(-8 + 23)]
-  f22a93f.Parent = ce2396c
-  G["OgwCT"].new(fec737a[(69 + 23)], f22a93f).CornerRadius = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(45 + 23)])
-  f22a93f.MouseButton1Click:Connect(function()
-    c6f6654(c46e0.ScriptPath, f22a93f)
+  local ed27f = G["QuLZC"].new(b6c0b4[(112 + 26)])
+  ed27f.Size = G["eOQbl"].new(b6c0b4[(36 + 26)], -b6c0b4[(102 + 26)], b6c0b4[(17 + 26)], b6c0b4[(34 + 26)])
+  ed27f.Position = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(78 + 26)], b6c0b4[(17 + 26)], b6c0b4[(79 + 26)])
+  ed27f.BackgroundTransparency = b6c0b4[(36 + 26)]
+  ed27f.Text = eaecbb2b.Name .. (e0d713 and b6c0b4[(76 + 26)] or b6c0b4[(35 + 26)])
+  ed27f.TextColor3 = e0d713 and G["wXGFh"].fromRGB(b6c0b4[(16 + 26)], b6c0b4[(14 + 26)], b6c0b4[(53 + 26)]) or G["wXGFh"].fromRGB(b6c0b4[(61 + 26)], b6c0b4[(62 + 26)], b6c0b4[(14 + 26)])
+  ed27f.Font = G["cVTXi"].Font.GothamBold
+  ed27f.TextSize = b6c0b4[(64 + 26)]
+  ed27f.TextXAlignment = G["cVTXi"].TextXAlignment.Left
+  ed27f.Parent = fad92
+  local c16daa = G["QuLZC"].new(b6c0b4[(112 + 26)])
+  c16daa.Size = G["eOQbl"].new(b6c0b4[(36 + 26)], -b6c0b4[(83 + 26)], b6c0b4[(17 + 26)], b6c0b4[(20 + 26)])
+  c16daa.Position = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(78 + 26)], b6c0b4[(17 + 26)], b6c0b4[(-18 + 26)])
+  c16daa.BackgroundTransparency = b6c0b4[(36 + 26)]
+  c16daa.Text = eaecbb2b.Description
+  c16daa.TextColor3 = G["wXGFh"].fromRGB(b6c0b4[(4 + 26)], b6c0b4[(43 + 26)], b6c0b4[(6 + 26)])
+  c16daa.Font = G["cVTXi"].Font.Gotham
+  c16daa.TextSize = b6c0b4[(95 + 26)]
+  c16daa.TextWrapped = true
+  c16daa.TextXAlignment = G["cVTXi"].TextXAlignment.Left
+  c16daa.TextYAlignment = G["cVTXi"].TextYAlignment.Top
+  c16daa.Parent = fad92
+  local ecbf4 = G["QuLZC"].new(b6c0b4[(33 + 26)])
+  ecbf4.Size = G["eOQbl"].new(b6c0b4[(17 + 26)], b6c0b4[(97 + 26)], b6c0b4[(17 + 26)], b6c0b4[(-18 + 26)])
+  ecbf4.Position = G["eOQbl"].new(b6c0b4[(36 + 26)], -b6c0b4[(29 + 26)], b6c0b4[(24 + 26)], -b6c0b4[(39 + 26)])
+  ecbf4.BackgroundColor3 = e0d713 and G["wXGFh"].fromRGB(b6c0b4[(-13 + 26)], b6c0b4[(43 + 26)], b6c0b4[(56 + 26)]) or G["wXGFh"].fromRGB(b6c0b4[(113 + 26)], b6c0b4[(-1 + 26)], b6c0b4[(-6 + 26)])
+  ecbf4.Text = b6c0b4[(37 + 26)]
+  ecbf4.TextColor3 = G["wXGFh"].fromRGB(b6c0b4[(14 + 26)], b6c0b4[(14 + 26)], b6c0b4[(14 + 26)])
+  ecbf4.Font = G["cVTXi"].Font.GothamBold
+  ecbf4.TextSize = b6c0b4[(78 + 26)]
+  ecbf4.Parent = fad92
+  G["QuLZC"].new(b6c0b4[(80 + 26)], ecbf4).CornerRadius = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(105 + 26)])
+  ecbf4.MouseButton1Click:Connect(function()
+    e00c1e961(eaecbb2b.ScriptPath, ecbf4)
   end)
 end
-local c41269 = ef731a9e(fec737a[(49 + 23)])
-local function ba0bd7(fcd5879, c58fca2a9, b253fb2, d2c5eef7)
-  local b2325dc = G["OgwCT"].new(fec737a[(51 + 23)])
-  b2325dc.LayoutOrder = c58fca2a9
-  b2325dc.Size = G["FSzrV"].new(fec737a[(59 + 23)], fec737a[(27 + 23)], fec737a[(27 + 23)], fec737a[(81 + 23)])
-  b2325dc.BackgroundColor3 = G["sSyPT"].fromRGB(fec737a[(42 + 23)], fec737a[(32 + 23)], fec737a[(29 + 23)])
-  b2325dc.Text = b253fb2
-  b2325dc.TextColor3 = G["sSyPT"].fromRGB(fec737a[(25 + 23)], fec737a[(34 + 23)], fec737a[(63 + 23)])
-  b2325dc.Font = G["njvDl"].Font.GothamSemibold
-  b2325dc.TextSize = fec737a[(-8 + 23)]
-  b2325dc.Parent = fcd5879
-  G["OgwCT"].new(fec737a[(69 + 23)], b2325dc).CornerRadius = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(6 + 23)])
-  b2325dc.MouseButton1Click:Connect(function()
-    d2c5eef7(b2325dc)
+local c845bab = a44263(b6c0b4[(63 + 26)])
+local function b6e830(c0290, f9df49, e1b697, dd6c8)
+  local e2b10ec = G["QuLZC"].new(b6c0b4[(33 + 26)])
+  e2b10ec.LayoutOrder = f9df49
+  e2b10ec.Size = G["eOQbl"].new(b6c0b4[(36 + 26)], b6c0b4[(17 + 26)], b6c0b4[(17 + 26)], b6c0b4[(94 + 26)])
+  e2b10ec.BackgroundColor3 = G["wXGFh"].fromRGB(b6c0b4[(38 + 26)], b6c0b4[(-12 + 26)], b6c0b4[(11 + 26)])
+  e2b10ec.Text = e1b697
+  e2b10ec.TextColor3 = G["wXGFh"].fromRGB(b6c0b4[(-5 + 26)], b6c0b4[(85 + 26)], b6c0b4[(62 + 26)])
+  e2b10ec.Font = G["cVTXi"].Font.GothamSemibold
+  e2b10ec.TextSize = b6c0b4[(78 + 26)]
+  e2b10ec.Parent = c0290
+  G["QuLZC"].new(b6c0b4[(80 + 26)], e2b10ec).CornerRadius = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(-2 + 26)])
+  e2b10ec.MouseButton1Click:Connect(function()
+    dd6c8(e2b10ec)
   end)
-  return b2325dc
+  return e2b10ec
 end
-local e931d3b9 = false
-ba0bd7(c41269, fec737a[(59 + 23)], fec737a[(-2 + 23)], function(bc5bcac)
-  e931d3b9 = not e931d3b9
-  bc5bcac.Text = e931d3b9 and fec737a[(11 + 23)] or fec737a[(-2 + 23)]
-  bc5bcac.BackgroundColor3 = e931d3b9 and G["sSyPT"].fromRGB(fec737a[(88 + 23)], fec737a[(106 + 23)], fec737a[(79 + 23)]) or G["sSyPT"].fromRGB(fec737a[(42 + 23)], fec737a[(32 + 23)], fec737a[(29 + 23)])
+local bf87dfa = false
+b6e830(c845bab, b6c0b4[(36 + 26)], b6c0b4[(-8 + 26)], function(a7d849f360)
+  bf87dfa = not bf87dfa
+  a7d849f360.Text = bf87dfa and b6c0b4[(60 + 26)] or b6c0b4[(-8 + 26)]
+  a7d849f360.BackgroundColor3 = bf87dfa and G["wXGFh"].fromRGB(b6c0b4[(-13 + 26)], b6c0b4[(44 + 26)], b6c0b4[(16 + 26)]) or G["wXGFh"].fromRGB(b6c0b4[(38 + 26)], b6c0b4[(-12 + 26)], b6c0b4[(11 + 26)])
 end)
-d56f20ba.Idled:Connect(function()
-  if e931d3b9 then
-    G["AFURt"](function()
-      b716258:CaptureController()
-      b716258:ClickButton2(G["HCLHy"].new())
+db0cedaf.Idled:Connect(function()
+  if bf87dfa then
+    G["iVwgg"](function()
+      a4f9d:CaptureController()
+      a4f9d:ClickButton2(G["Jsjlb"].new())
     end)
   end
 end)
-ba0bd7(c41269, fec737a[(97 + 23)], fec737a[(73 + 23)], function(f202f)
-  bf1090.Brightness = fec737a[(97 + 23)]
-  bf1090.ClockTime = fec737a[(116 + 23)]
-  bf1090.FogEnd = fec737a[(-20 + 23)]
-  bf1090.GlobalShadows = false
-  f202f.Text = fec737a[(110 + 23)]
+b6e830(c845bab, b6c0b4[(67 + 26)], b6c0b4[(-9 + 26)], function(d5f1f9c)
+  da3bc3d3b.Brightness = b6c0b4[(67 + 26)]
+  da3bc3d3b.ClockTime = b6c0b4[(52 + 26)]
+  da3bc3d3b.FogEnd = b6c0b4[(41 + 26)]
+  da3bc3d3b.GlobalShadows = false
+  d5f1f9c.Text = b6c0b4[(49 + 26)]
 end)
-ba0bd7(c41269, fec737a[(33 + 23)], fec737a[(57 + 23)], function(c1aee93)
-  local ad5293e78 = d56f20ba.Character and d56f20ba.Character:FindFirstChildOfClass(fec737a[(-3 + 23)])
-  if ad5293e78 then
-    ad5293e78.WalkSpeed = fec737a[(111 + 23)]
-    ad5293e78.UseJumpPower = true
-    ad5293e78.JumpPower = fec737a[(108 + 23)]
-    c1aee93.Text = fec737a[(20 + 23)]
+b6e830(c845bab, b6c0b4[(86 + 26)], b6c0b4[(18 + 26)], function(d25ff52a)
+  local dfc9330d6 = db0cedaf.Character and db0cedaf.Character:FindFirstChildOfClass(b6c0b4[(65 + 26)])
+  if dfc9330d6 then
+    dfc9330d6.WalkSpeed = b6c0b4[(-18 + 26)]
+    dfc9330d6.UseJumpPower = true
+    dfc9330d6.JumpPower = b6c0b4[(-21 + 26)]
+    d25ff52a.Text = b6c0b4[(0 + 26)]
   end
 end)
-ba0bd7(c41269, fec737a[(105 + 23)], fec737a[(-6 + 23)], function(b2650729ad)
-  b2650729ad.Text = fec737a[(-4 + 23)]
-  G["AFURt"](function()
-    G["TZPOB"](G["WWvTH"]:HttpGet(fec737a[(4 + 23)]))()
+b6e830(c845bab, b6c0b4[(30 + 26)], b6c0b4[(12 + 26)], function(b06e5cd8)
+  b06e5cd8.Text = b6c0b4[(55 + 26)]
+  G["iVwgg"](function()
+    G["ddwdc"](G["ksnVd"]:HttpGet(b6c0b4[(90 + 26)]))()
   end)
-  b2650729ad.Text = fec737a[(24 + 23)]
+  b06e5cd8.Text = b6c0b4[(8 + 26)]
 end)
-ba0bd7(c41269, fec737a[(74 + 23)], fec737a[(43 + 23)], function(d33786c44e)
-  d33786c44e.Text = fec737a[(13 + 23)]
-  e425a775:TeleportToPlaceInstance(G["WWvTH"].PlaceId, G["WWvTH"].JobId, d56f20ba)
+b6e830(c845bab, b6c0b4[(77 + 26)], b6c0b4[(46 + 26)], function(af23a85d)
+  af23a85d.Text = b6c0b4[(71 + 26)]
+  dabad6a:TeleportToPlaceInstance(G["ksnVd"].PlaceId, G["ksnVd"].JobId, db0cedaf)
 end)
-local dc87206 = ef731a9e(fec737a[(100 + 23)])
-local bf14ec0 = G["OgwCT"].new(fec737a[(103 + 23)])
-bf14ec0.LayoutOrder = fec737a[(59 + 23)]
-bf14ec0.Size = G["FSzrV"].new(fec737a[(59 + 23)], fec737a[(27 + 23)], fec737a[(27 + 23)], fec737a[(8 + 23)])
-bf14ec0.BackgroundColor3 = G["sSyPT"].fromRGB(fec737a[(42 + 23)], fec737a[(32 + 23)], fec737a[(29 + 23)])
-bf14ec0.Text = (fec737a[(35 + 23)]):format(b264d52f31.Name, b264d52f31.Version, G["QgkKD"](G["WWvTH"].PlaceId))
-bf14ec0.TextColor3 = G["sSyPT"].fromRGB(fec737a[(7 + 23)], fec737a[(12 + 23)], fec737a[(34 + 23)])
-bf14ec0.Font = G["njvDl"].Font.GothamSemibold
-bf14ec0.TextSize = fec737a[(-8 + 23)]
-bf14ec0.TextXAlignment = G["njvDl"].TextXAlignment.Left
-bf14ec0.Parent = dc87206
-G["OgwCT"].new(fec737a[(69 + 23)], bf14ec0).CornerRadius = G["qzDwc"].new(fec737a[(27 + 23)], fec737a[(0 + 23)])
-ba0bd7(dc87206, fec737a[(97 + 23)], fec737a[(-7 + 23)], function(d62f6ad2c)
-  local aa797d = (fec737a[(-10 + 23)]):format(b264d52f31.BaseRawUrl)
-  if G["FhkYC"] then
-    G["FhkYC"](aa797d)
-    d62f6ad2c.Text = fec737a[(83 + 23)]
+local afe47 = a44263(b6c0b4[(-4 + 26)])
+local a3a03130 = G["QuLZC"].new(b6c0b4[(112 + 26)])
+a3a03130.LayoutOrder = b6c0b4[(36 + 26)]
+a3a03130.Size = G["eOQbl"].new(b6c0b4[(36 + 26)], b6c0b4[(17 + 26)], b6c0b4[(17 + 26)], b6c0b4[(89 + 26)])
+a3a03130.BackgroundColor3 = G["wXGFh"].fromRGB(b6c0b4[(38 + 26)], b6c0b4[(-12 + 26)], b6c0b4[(11 + 26)])
+a3a03130.Text = (b6c0b4[(15 + 26)]):format(f2da89.Name, f2da89.Version, G["ddEnR"](G["ksnVd"].PlaceId))
+a3a03130.TextColor3 = G["wXGFh"].fromRGB(b6c0b4[(9 + 26)], b6c0b4[(75 + 26)], b6c0b4[(85 + 26)])
+a3a03130.Font = G["cVTXi"].Font.GothamSemibold
+a3a03130.TextSize = b6c0b4[(78 + 26)]
+a3a03130.TextXAlignment = G["cVTXi"].TextXAlignment.Left
+a3a03130.Parent = afe47
+G["QuLZC"].new(b6c0b4[(80 + 26)], a3a03130).CornerRadius = G["xPtEI"].new(b6c0b4[(17 + 26)], b6c0b4[(79 + 26)])
+b6e830(afe47, b6c0b4[(67 + 26)], b6c0b4[(-24 + 26)], function(a9c6f)
+  local b1b963 = (b6c0b4[(88 + 26)]):format(f2da89.BaseRawUrl)
+  if G["ZFFeL"] then
+    G["ZFFeL"](b1b963)
+    a9c6f.Text = b6c0b4[(69 + 26)]
   else
-    d62f6ad2c.Text = aa797d
+    a9c6f.Text = b1b963
   end
 end)
-d13be763[fec737a[(87 + 23)]].Visible = true
-bf13f73b0[fec737a[(87 + 23)]].BackgroundColor3 = G["sSyPT"].fromRGB(fec737a[(10 + 23)], fec737a[(60 + 23)], fec737a[(27 + 23)])
-bf13f73b0[fec737a[(87 + 23)]].TextColor3 = G["sSyPT"].fromRGB(fec737a[(92 + 23)], fec737a[(-22 + 23)], fec737a[(104 + 23)])
+b18a37ac4f[b6c0b4[(-10 + 26)]].Visible = true
+d195c9[b6c0b4[(-10 + 26)]].BackgroundColor3 = G["wXGFh"].fromRGB(b6c0b4[(14 + 26)], b6c0b4[(43 + 26)], b6c0b4[(17 + 26)])
+d195c9[b6c0b4[(-10 + 26)]].TextColor3 = G["wXGFh"].fromRGB(b6c0b4[(106 + 26)], b6c0b4[(84 + 26)], b6c0b4[(109 + 26)])
